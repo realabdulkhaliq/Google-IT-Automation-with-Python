@@ -38,3 +38,13 @@ There are tons of Jupyter resources available. Here is a list of some great ones
 ## Create a Colab Notebook
 
 Open [Google Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb#recent=true).
+
+## Resources for more information
+
+Review the following resources to find out more about Colab:
+
+- This [resource](https://colab.sandbox.google.com/notebooks/basic_features_overview.ipynb) provides an overview of Colab’s features with examples.
+
+- This is a [guide](https://colab.sandbox.google.com/notebooks/snippets/importing_libraries.ipynb) to installing and using Python libraries in Colab.
+
+- This [resource](https://colab.sandbox.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb) provides directions on how to save and load Colab Notebooks in GitHub.
