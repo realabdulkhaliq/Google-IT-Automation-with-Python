@@ -35,6 +35,8 @@ There are tons of Jupyter resources available. Here is a list of some great ones
 
 - [Official documentation](https://docs.jupyter.org/en/latest/) for Project Jupyter.
 
+- [JupytorLab](https://jupyter.org/try-jupyter/lab/)
+
 ## Create a Colab Notebook
 
 Open [Google Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb#recent=true).
