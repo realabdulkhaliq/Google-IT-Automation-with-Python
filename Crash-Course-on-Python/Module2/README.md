@@ -13,3 +13,7 @@ For additional Python practice, the following links will take you to several pop
 [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
 
 [Your Python Trinket](https://trinket.io/python3)
+
+These were just a few of Python's built-in functions. You can continue learning about others on your own:
+
+The [Python Standard Library](https://docs.python.org/3/library/functions.html) documentationOpens in a new tab: A list of Python’s built-in functions and information on how to use them.
