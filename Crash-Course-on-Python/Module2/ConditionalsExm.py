@@ -1,0 +1,1 @@
+print("Yellow" > "Cyan" and "Magenta" > "Brown")
