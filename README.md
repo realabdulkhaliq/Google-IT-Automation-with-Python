@@ -52,3 +52,15 @@ Review the following resources to find out more about Colab:
 - This is a [guide](https://colab.sandbox.google.com/notebooks/snippets/importing_libraries.ipynb) to installing and using Python libraries in Colab.
 
 - This [resource](https://colab.sandbox.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb) provides directions on how to save and load Colab Notebooks in GitHub.
+
+## Resources for more information
+
+Here are a few useful resources to help you get more familiar with Python:
+
+- Python [Reference Library](https://docs.python.org/3/library/)
+
+- [Built-in Data types](https://docs.python.org/3/library/stdtypes.html)
+
+- [Built-in functions](https://docs.python.org/3/library/functions.html#built-in-functions)
+
+- [Python operators](https://python-reference.readthedocs.io/en/latest/docs/operators/index.html)
