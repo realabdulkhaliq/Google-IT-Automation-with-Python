@@ -31,3 +31,13 @@ The [Python Standard Library](https://docs.python.org/3/library/functions.html) 
 [Raise numbers to a power: here’s how to exponentiate in Python](https://kodify.net/python/math/exponents/)
 
 - Explains multiple methods for calculating exponents in Python.
+
+## Python String Comparison
+
+[Python String Comparison: A Step-by-Step Guide (with Examples) ](https://www.codingem.com/python-string-comparison/)
+
+- A quick reference guide to using comparison operators with strings. Includes part of a Unicode table that displays all of the Unicode values for both uppercase and lowercase letters.
+
+[Comparing Strings using Python](https://stackabuse.com/comparing-strings-using-python/)
+
+- Provides more advanced examples of using comparison operators with strings.
