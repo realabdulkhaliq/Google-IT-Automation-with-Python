@@ -30,13 +30,6 @@ def lucky_number(name):
 lucky_number("Kay")
 lucky_number("Cameron")
 
-def calculate(diameter):
-    pi = 3.14
-    circumfarance = pi * (diameter ** 2)
-    print(circumfarance)
-
-calculate(5)
-
 def circle_area(radius):
     pi = 3.14
     area = pi * (radius ** 2)
