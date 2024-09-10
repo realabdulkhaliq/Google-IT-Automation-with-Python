@@ -64,3 +64,8 @@ Here are a few useful resources to help you get more familiar with Python:
 - [Built-in functions](https://docs.python.org/3/library/functions.html#built-in-functions)
 
 - [Python operators](https://python-reference.readthedocs.io/en/latest/docs/operators/index.html)
+
+### Resources for more information
+
+Python built-in types
+https://docs.python.org/3/library/stdtypes.html
