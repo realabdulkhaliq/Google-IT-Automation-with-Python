@@ -21,5 +21,8 @@ print("Investigate failed login attempts during" + month + "if more than" + str(
 
 #4
 print(1 < "1") # TypeError: '<' not supported between instances of 'int' and 'str'
-print(1 == "1") # False
 print(1 > "1") # False
+
+#5
+print(1 == "1") # False
+# No TypeError
