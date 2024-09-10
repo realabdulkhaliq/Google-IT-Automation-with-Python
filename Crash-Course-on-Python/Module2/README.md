@@ -18,7 +18,7 @@ These were just a few of Python's built-in functions. You can continue learning 
 
 The [Python Standard Library](https://docs.python.org/3/library/functions.html) documentationOpens in a new tab: A list of Python’s built-in functions and information on how to use them.
 
-R
+# Operators
 
 [Order of Operations](https://www.mathsisfun.com/operation-order-pemdas.html)
 
