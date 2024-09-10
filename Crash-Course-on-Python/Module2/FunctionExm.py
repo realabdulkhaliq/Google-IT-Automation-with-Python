@@ -19,3 +19,27 @@ def convert_seconds(seconds):
  
 hours, minutes, seconds = convert_seconds(5000)
 print(hours, minutes, seconds)
+
+# Because we know that the function returns three values, 
+# we assign the result of the function to three different variables.
+
+def lucky_number(name):
+    number = len(name) * 9
+    print("Hello " + name + ". Your lucky number is " + str(number))
+
+lucky_number("Kay")
+lucky_number("Cameron")
+
+def calculate(diameter):
+    pi = 3.14
+    circumfarance = pi * (diameter ** 2)
+    print(circumfarance)
+
+calculate(5)
+
+def circle_area(radius):
+    pi = 3.14
+    area = pi * (radius ** 2)
+    print(area)
+
+circle_area(5)
