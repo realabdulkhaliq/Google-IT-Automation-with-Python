@@ -41,3 +41,7 @@ The [Python Standard Library](https://docs.python.org/3/library/functions.html) 
 [Comparing Strings using Python](https://stackabuse.com/comparing-strings-using-python/)
 
 - Provides more advanced examples of using comparison operators with strings.
+
+[Understanding Boolean Logic in Python 3](https://www.digitalocean.com/community/tutorials/understanding-boolean-logic-in-python-3)
+
+- A handy guide for reviewing both logical and conditional operators.
