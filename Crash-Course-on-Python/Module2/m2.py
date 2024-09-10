@@ -6,3 +6,12 @@ total = bill + tip # Sum the "total" of the "bill" and "tip"
 share = total/2 # Divide "total" by number of friends dining
 print("Each person needs to pay:" + str(share)) # Enter the required string and "share" 
 # Hint: Remember to convert incompatible data types
+
+month = "September"
+print("Investigate failed login attempts during", month, "if more than", 100)
+
+month = "October"
+print("Investigate failed login attempts during" + month + "if more than" + 100)
+# error due to + above example is fine, 100 is not a string 100 needs to be converted to a string
+print("Investigate failed login attempts during" + month + "if more than" + str(100)) # correct way to convert 100 to a string
+
