@@ -11,3 +11,18 @@ for number in range(2,7+1):
 
 
 # The loop should print 6, 9, 12, 15, 18, 21
+
+print("================================================")
+
+# This loop iterates on the value of the "x" variable in a range
+# of 2 to -1 (the end-of-range index -2 is excluded). The third 
+# parameter is also a negative number, making it a decremental value
+# of -1. The print() function will output the resulting value of
+# "x" as it starts at 2 and counts down to -1 (index -2).
+
+
+for x in range(2, -2, -1):
+    print(x)
+
+
+# The loop should print 2, 1, 0, -1
