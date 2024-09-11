@@ -39,3 +39,13 @@ For additional Python practice, the following links will take you to several pop
 [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
 
 [Your Python Trinket](https://trinket.io/python3)
+
+## Additional advanced string loop techniques
+
+There are additional ways to loop over a string in Python that you should learn, practice, and master. These additional looping techniques include the generator functions, map(), and zip(). The map() and zip() functions are extremely powerful string manipulation tools that demonstrate functional programming concepts. To learn more about these advanced techniques, see these resources:
+
+- [Python - map() function](https://www.tutorialsteacher.com/python/python-map-function)
+
+- [Python zip() method](https://www.tutorialsteacher.com/python/zip-method)
+
+Pro Tip: Looping over multiple strings at once can push the limits of for loops. Because of this, it’s important to be aware of other alternatives to simplify a for or while loop.
