@@ -20,6 +20,32 @@ The roles of the range(start, stop, step) function parameters are:
 
   - default = 1
 
+### `range(x,y,z)`
+
+- x = Start - Starting index position of the range
+
+  - Default index position is 0.
+
+  - The starting index position is included in the range.
+
+  - Example syntax: `range(2, y, z)` or `range(x+3, y, z)`
+
+- y = Stop - Ending index position of range
+
+  - No default index position. Must include the ending index position in the range() parameters.
+
+  - Example syntax: `range(y)`
+
+  - The value of the ending index position is excluded from the range.
+
+  - To include the ending index number, use the expression: y+1 (index + 1)
+
+  - Example syntax: `range(x, y+1, z)`
+
+  - Alternatively, if y = 10, you can write: `range(x, 11, z)`
+
+- z = Step - Incremental value
+
 ## Resources for more information
 
 [Python range() function](https://www.geeksforgeeks.org/python-range-function/)
