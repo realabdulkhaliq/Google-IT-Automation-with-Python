@@ -23,3 +23,9 @@ For additional information about list and tuple operations and methods, please v
 [Tuples](https://docs.python.org/3/library/stdtypes.html#tuples)
 
 - Official python.org documentation for tuple operations and methods
+
+## OOP Methods
+
+For a full list of operators and the method names you can use to override their behavior, view this resource:
+
+[Mapping operators to functions](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
