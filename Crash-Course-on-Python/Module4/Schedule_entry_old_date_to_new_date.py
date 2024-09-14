@@ -9,8 +9,10 @@ def replace_date(schedule, old_date, new_date):
         # If True, the body of the if-block will run. The variable "p" is
         # used to hold the slicing index position. The len() function
         # is used to measure the length of the string "old_date".
+        
         p = len(old_date)
-
+        print("p",p)
+       
         # The "new_schedule" string holds the updated string with the 
         # old date replaced by the new date. The schedule[:-p] part of 
         # the code trims the "old_date" substring from "schedule" 
@@ -22,6 +24,9 @@ def replace_date(schedule, old_date, new_date):
         # .replace(old_date, new_date) code inserts the "new_date" into
         # the position where the "old_date" used to exist.  
         new_schedule = schedule[:-p] + schedule[-p:].replace(old_date, new_date)
+        print("schedule [:-p]",p,-p,schedule[:-p])
+        print("schedule[-p:]",schedule[-p:])
+        print("new_schedule", new_schedule)
 
         # Returns the schedule with the new date.
         return new_schedule
