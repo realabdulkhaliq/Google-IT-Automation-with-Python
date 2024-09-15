@@ -32,6 +32,10 @@ The [Python Standard Library](https://docs.python.org/3/library/functions.html) 
 
 - Explains multiple methods for calculating exponents in Python.
 
+## Unicode Table
+
+![Unicode_table](https://github.com/user-attachments/assets/4e5080ea-7bf8-4706-922d-eb3c7e86eb55)
+
 ## Python String Comparison
 
 [Python String Comparison: A Step-by-Step Guide (with Examples) ](https://www.codingem.com/python-string-comparison/)
