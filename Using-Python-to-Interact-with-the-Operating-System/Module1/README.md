@@ -11,6 +11,8 @@ official [Python website](http://www.python.org/) and download the installer tha
 
 There’s a bunch of guides out there for installing Python and they all follow a similar process to the one we described in the videos. This [guide from Real Python](https://realpython.com/installing-python/) includes instructions on how to install python on a range of different operating systems and distributions.
 
+Once you have Python installed on your operating system, it's a good idea to familiarize yourself with pip and the associated tools. You can find more info about these [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+
 ### Using package management systems
 
 Package management systems help you better manage the software installed on your machine. These management systems vary a lot from operating system to operating system. So, you need to pick the one that works for the OS you’re using. Check out these guides for help with this:
