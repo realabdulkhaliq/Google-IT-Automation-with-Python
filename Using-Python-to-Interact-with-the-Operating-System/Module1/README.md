@@ -98,7 +98,8 @@ On macOS and Linux:
 
 Once activated, your terminal prompt will change, indicating that you are now working within the virtual environment. You can now install packages using pip just like you normally would.
 
-Best practices and recommendations
+### Best practices and recommendations
+
 As you dive into the world of virtual environments, keep these best practices in mind:
 
 Create a virtual environment for each project: Whenever you start a new project, create a new virtual environment. This ensures a clean and isolated workspace.
@@ -111,7 +112,8 @@ Version control: If you're collaborating with others, include the virtual enviro
 
 Upgrade pip and setuptools: When you create a new virtual environment, it's a good practice to upgrade pip and setuptools to the latest version. This ensures you're using the most up-to-date tools.
 
-Key takeaways
+### Key takeaways
+
 Virtual environments are your key to maintaining a clean and efficient Python development workflow. By isolating your projects, you can work confidently, test various libraries, and ensure consistency across your codebase. With this newfound knowledge, you're well on your way to mastering the art of running Python locally and building robust applications.
 
 https://docs.python.org/3/library/venv.html
