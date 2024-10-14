@@ -104,7 +104,7 @@ As you dive into the world of virtual environments, keep these best practices in
 
 Create a virtual environment for each project: Whenever you start a new project, create a new virtual environment. This ensures a clean and isolated workspace.
 
-Use requirements files: To document and manage your project's dependencies, create a requirements.txt file. This file lists all the libraries and their versions. You can generate it using pip freeze > requirements.txt and later install them in a new environment using pip install -r requirements.txt.
+Use requirements files: To document and manage your project's dependencies, create a requirements.txt file. This file lists all the libraries and their versions. You can generate it using `pip freeze > requirements.txt` and later install them in a new environment using `pip install -r requirements.txt`.
 
 Activate and deactivate: Always activate the appropriate virtual environment before working on a project and deactivate it when you're done. This prevents confusion and potential conflicts.
 
