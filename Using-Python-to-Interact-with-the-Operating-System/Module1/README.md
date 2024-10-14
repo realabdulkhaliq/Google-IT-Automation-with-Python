@@ -26,3 +26,40 @@ Package management systems help you better manage the software installed on your
 ### Other information
 
 - [Python in the Microsoft Store for Windows 10](https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/)
+
+# Setting up Your Environment
+
+After you’ve installed Python and checked that it works, the next step to set up your developer environment is to choose your main code editor. You’ve explored some code editors in Course 1.
+
+Here are some additional common editors for Python, available for all platforms:
+
+- [Eclipse](http://www.eclipse.org/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Sublime Text](http://www.sublimetext.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+You can read more about these editors, and others, in these overview comparatives:
+
+## [Python IDEs and Code Editors (Guide)](https://realpython.com/python-ides-code-editors-guide/#pycharm)
+
+This site compares tools that are built exclusively for Python code development and tools built for general development that you can use for Python and explains the pros and cons of each tool.
+
+## [Best Python IDEs and Code Editors](https://www.softwaretestinghelp.com/python-ide-code-editors/)
+
+This site explains the importance of an integrated development environment (IDE) and compares a number of Python IDEs and code editors that can be used on platforms such as Windows, Mac, or Linux.
+
+## [Top 6 Python IDEs for Data Science](https://www.datacamp.com/community/tutorials/data-science-python-ide)
+
+This site reviews common IDEs in terms of functionality to benefit projects for data scientists.
+
+We encourage you to try out these editors and pick your favorite. Then, install it on your computer and experiment with writing and executing Python scripts locally. To review best practices for using and saving Python files, check out the following:
+
+- [Review: Use the command-line](https://www.coursera.org/learn/python-crash-course/supplement/vBqPl/review-use-the-command-line)
+- [Use the command-line](https://www.coursera.org/learn/python-crash-course/lecture/Kz1Qr/use-the-command-line)
+- [Review: Use JupyterLab and Jupyter Notebooks](https://www.coursera.org/learn/python-crash-course/supplement/C2ll0/review-use-jupyterlab-and-jupyter-notebooks)
+- [Use JupyterLab and Jupyter Notebooks](https://www.coursera.org/learn/python-crash-course/lecture/e9iE9/use-jupyterlab-and-jupyter-notebooks)
+- [Review: Use Colab](https://www.coursera.org/learn/python-crash-course/supplement/xgTqT/review-use-colab)
+- [Use Colab](https://www.coursera.org/learn/python-crash-course/lecture/563SQ/use-colab)
+- [Review: Use VS Code](https://www.coursera.org/learn/python-crash-course/supplement/gcQVZ/review-use-vs-code)
+- [Use VS Code](https://www.coursera.org/learn/python-crash-course/lecture/DQhOO/use-vs-code)
+- [More on IDEs and code editors](https://www.coursera.org/learn/python-crash-course/supplement/5KUxr/more-on-ides-and-code-editors)
