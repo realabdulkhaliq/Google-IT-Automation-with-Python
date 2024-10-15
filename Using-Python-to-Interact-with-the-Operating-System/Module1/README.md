@@ -102,15 +102,15 @@ Once activated, your terminal prompt will change, indicating that you are now wo
 
 As you dive into the world of virtual environments, keep these best practices in mind:
 
-Create a virtual environment for each project: Whenever you start a new project, create a new virtual environment. This ensures a clean and isolated workspace.
+**Create a virtual environment for each project:** Whenever you start a new project, create a new virtual environment. This ensures a clean and isolated workspace.
 
-Use requirements files: To document and manage your project's dependencies, create a requirements.txt file. This file lists all the libraries and their versions. You can generate it using `pip freeze > requirements.txt` and later install them in a new environment using `pip install -r requirements.txt`.
+**Use requirements files:** To document and manage your project's dependencies, create a requirements.txt file. This file lists all the libraries and their versions. You can generate it using `pip freeze > requirements.txt` and later install them in a new environment using `pip install -r requirements.txt`.
 
-Activate and deactivate: Always activate the appropriate virtual environment before working on a project and deactivate it when you're done. This prevents confusion and potential conflicts.
+**Activate and deactivate:** Always activate the appropriate virtual environment before working on a project and deactivate it when you're done. This prevents confusion and potential conflicts.
 
-Version control: If you're collaborating with others, include the virtual environment setup instructions in your version control system. This ensures everyone is using the same environment.
+**Version control:** If you're collaborating with others, include the virtual environment setup instructions in your version control system. This ensures everyone is using the same environment.
 
-Upgrade pip and setuptools: When you create a new virtual environment, it's a good practice to upgrade pip and setuptools to the latest version. This ensures you're using the most up-to-date tools.
+**Upgrade pip and setuptools:** When you create a new virtual environment, it's a good practice to upgrade pip and setuptools to the latest version. This ensures you're using the most up-to-date tools.
 
 ### Key takeaways
 
