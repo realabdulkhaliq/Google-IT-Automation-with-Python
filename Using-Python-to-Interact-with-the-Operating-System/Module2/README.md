@@ -22,3 +22,8 @@ The mode argument is optional, and it specifies the mode in which the file is op
 “+” open for both reading and writing
 
 Attempting to write to a file opened for read (“r”) will cause a runtime error.
+
+Resources for more information
+More information about reading and writing files can be found in Built-in Functions:
+
+https://docs.python.org/3/library/functions.html#open
