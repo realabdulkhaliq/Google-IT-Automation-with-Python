@@ -27,3 +27,14 @@ Resources for more information
 More information about reading and writing files can be found in Built-in Functions:
 
 https://docs.python.org/3/library/functions.html#open
+
+There are several ways to manage files and directories in Python. One way is to use low-level functions in the OS and SYS modules that closely mimic standard Linux commands. Another way is to utilize the Pathlib module, which provides an object-oriented interface to working with the file systems.
+
+Resources for more information
+More information about files and directories can be found in several resources provided below:
+
+https://docs.python.org/3/library/os.html
+
+https://docs.python.org/3/library/os.path.html
+
+https://en.wikipedia.org/wiki/Unix_time
