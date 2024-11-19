@@ -80,7 +80,8 @@ This [document](https://docs.python.org/3/library/csv.html) provides additional 
 
 This[document](https://realpython.com/python-csv/) provides additional information on what a .csv file is, how to parse .csv files with Python’s built-in .csv library, and how to parse .csv files with the pandas library.
 
-Terms and definitions from Course 2, Module 2
+### Terms and definitions from Course 2, Module 2
+
 Absolute path: A full path to the resource in the file system
 
 Comma separated values (CSV): A very common data format used to store data as segment of text separated by commas
