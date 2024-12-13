@@ -18,6 +18,3 @@ class TestValidateUser(unittest.TestCase):
 
 # Run the tests
 unittest.main()
-
-
-
