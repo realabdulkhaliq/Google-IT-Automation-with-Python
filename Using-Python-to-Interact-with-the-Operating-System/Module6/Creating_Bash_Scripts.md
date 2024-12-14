@@ -15,3 +15,5 @@ who
 echo
 
 echo "Finishing at: $(date)"
+
+./gather-information.sh
