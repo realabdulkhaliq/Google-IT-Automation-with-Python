@@ -29,3 +29,5 @@ echo "FREE"; free; echo
 echo "WHO"; who; echo
 
 echo "Finishing at: $(date)"
+
+./gather-information.sh
