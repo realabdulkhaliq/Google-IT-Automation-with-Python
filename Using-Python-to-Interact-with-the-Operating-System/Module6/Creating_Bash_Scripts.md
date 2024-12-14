@@ -17,3 +17,5 @@ echo
 echo "Finishing at: $(date)"
 
 ./gather-information.sh
+
+#!/bin/bash
