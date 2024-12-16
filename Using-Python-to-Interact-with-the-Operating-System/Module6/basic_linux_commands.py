@@ -22,3 +22,10 @@
 # #-rw-rw-r-- 1 user user   0 Mai 22 14:22 emptyfile.txt
 # #-rw-rw-r-- 1 user user 192 Mai 22 14:18 spider.txt
 # #-rw-rw-r-- 1 user user 192 Mai 22 14:23 yetanotherfile.txt
+# /mynewdir$ rm *
+# /mynewdir$ ls -l
+# #total 0
+# /mynewdir$ cd ..
+# rmdir mynewdir/
+# ls mynewdir
+# #ls: cannot access 'mynewdir': No such file or directory
