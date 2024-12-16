@@ -8,3 +8,13 @@ Create bash scripts and execute them
 Execute scripts using variables and globs to influence the output of these scripts
 Utilize while and for loops in bash scripts
 Describe when it’s necessary to use Bash scripts over Python scripts
+
+## Bash Scripting Resources
+
+Check out the following links for more information:
+
+https://ryanstutorials.net/bash-scripting-tutorial/
+
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+
+https://www.shellscript.sh
