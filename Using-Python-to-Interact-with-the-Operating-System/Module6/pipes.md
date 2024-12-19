@@ -1,0 +1,4 @@
+cat haiku.txt
+#advance your career,
+#automating with Python,
+#it's so fun to learn.
