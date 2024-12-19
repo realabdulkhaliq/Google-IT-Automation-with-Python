@@ -7,3 +7,8 @@ cat haiku.txt | ./capitalize.py
 #Advance your career,
 #Automating with python,
 #It's so fun to learn.
+
+./capitalize.py < haiku.txt
+#Advance your career,
+#Automating with python,
+#It's so fun to learn.
