@@ -42,3 +42,5 @@ echo c\*
 starting with c
 echo \*
 all files in directory
+echo ?????.py
+any name with 4 char and ending with .py
