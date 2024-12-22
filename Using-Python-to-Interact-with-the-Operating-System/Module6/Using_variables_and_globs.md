@@ -17,3 +17,5 @@ Command ‘example’ not found, did you mean:
     Command ‘gexample’ from deb pvm-examples (3.4.6-2build1)
 
 Try: sudo apt install <deb name>
+
+Spaces are not allowed
