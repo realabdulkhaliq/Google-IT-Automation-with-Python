@@ -19,3 +19,17 @@ Command ‘example’ not found, did you mean:
 Try: sudo apt install <deb name>
 
 Spaces are not allowed
+
+#!/bin/bash
+
+line="-------------------------------------------------"
+
+echo "Starting at: $(date)"; echo $line
+
+echo "UPTIME"; uptime; echo $line
+
+echo "FREE"; free; echo $line
+
+echo "WHO"; who; echo $line
+
+echo "Finishing at: $(date)"
