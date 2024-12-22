@@ -38,3 +38,5 @@ echo "Finishing at: $(date)"
 
 echo \*.py
 ending with .py
+echo c\*
+starting with c
