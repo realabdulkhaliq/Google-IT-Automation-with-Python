@@ -37,9 +37,3 @@ echo "Finishing at: $(date)"
 ./gather-information.sh
 
 echo \*.py
-
-echo c\*
-
-echo \*
-
-echo ?????.py
