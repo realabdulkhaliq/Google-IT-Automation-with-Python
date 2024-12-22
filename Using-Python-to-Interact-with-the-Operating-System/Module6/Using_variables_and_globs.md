@@ -40,3 +40,5 @@ echo \*.py
 ending with .py
 echo c\*
 starting with c
+echo \*
+all files in directory
