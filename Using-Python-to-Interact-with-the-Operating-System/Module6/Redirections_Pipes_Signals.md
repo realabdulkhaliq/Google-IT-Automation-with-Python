@@ -17,3 +17,5 @@ These are some commands that are useful to know in Linux when interacting with p
 ps: lists the processes executing in the current terminal for the current user
 
 ps ax: lists all processes currently executing for all users
+
+ps e: shows the environment for the processes listed
