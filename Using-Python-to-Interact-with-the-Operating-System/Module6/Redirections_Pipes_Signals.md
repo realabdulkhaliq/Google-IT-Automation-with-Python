@@ -21,3 +21,7 @@ ps ax: lists all processes currently executing for all users
 ps e: shows the environment for the processes listed
 
 kill PID: sends the SIGTERM signal to the process identified by PID
+
+fg: causes a job that was stopped or in the background to return to the foreground
+
+bg: causes a job that was stopped to go to the background
