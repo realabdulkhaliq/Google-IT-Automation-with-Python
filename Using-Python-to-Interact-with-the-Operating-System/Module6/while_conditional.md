@@ -7,3 +7,5 @@ echo "Iteration number $n"
 done
 
 ./while.sh
+
+cat while.sh
