@@ -23,5 +23,3 @@ print("Returning: " + str(value))
 sys.exit(value)
 
 ./random-exit.py
-./random-exit.py
-./random-exit.py
