@@ -33,3 +33,5 @@ while ! $command && [ $n -le 5 ]; do
         ((n+=1))
         echo "Retry #$n"
 done;
+
+./retry.sh ./random
