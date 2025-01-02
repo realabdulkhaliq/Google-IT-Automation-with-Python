@@ -7,3 +7,9 @@ Utilize the diff and patch commands to automate differentiating and editing file
 Explain what Git is and its benefits of use
 Install Git on local machine
 Utilize Git to create and clone repositories, add code, check the status of code, and commit code
+
+There are other interesting patch and diff commands such as patch -p1 and diff -r . For more information on these commands, check out the following resources:
+
+http://man7.org/linux/man-pages/man1/diff.1.html
+
+http://man7.org/linux/man-pages/man1/patch.1.html
