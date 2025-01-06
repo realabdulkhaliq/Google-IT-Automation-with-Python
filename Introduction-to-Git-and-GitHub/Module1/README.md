@@ -13,3 +13,8 @@ There are other interesting patch and diff commands such as patch -p1 and diff -
 http://man7.org/linux/man-pages/man1/diff.1.html
 
 http://man7.org/linux/man-pages/man1/patch.1.html
+
+More Information About Git
+Check out the following links for more information:
+
+https://git-scm.com/doc
