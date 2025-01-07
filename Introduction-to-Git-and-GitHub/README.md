@@ -78,3 +78,16 @@ Open the course material you want to rate. You can only rate videos, readings, a
 If the content was interesting or helped you learn, click the thumbs-up icon.
 
 If the content was unhelpful or confusing, click the thumbs-down icon.
+
+Finding out more information
+Throughout this course, we’ll teach you how to do a range of things with Git and GitHub. While we’ll provide a lot of information through videos and supplemental readings, sometimes you may need to look things up on your own, both now and throughout your career. Things change fast in IT, so it’s critical to do your own research to stay up-to-date on what’s new. We recommend you use your favorite search engine to find more information about the concepts we cover in this course — it’s great practice for the real world!
+
+On top of search results, here are some great Git resources available online:
+
+[Pro Git](https://git-scm.com/book/en/v2)
+: This book (available online and in print) covers all the fundamentals of how Git works and how to use it. Refer to it if you want to learn more about the subjects that we cover throughout the course.
+
+[Git tutorial](https://git-scm.com/docs/gittutorial)
+: This tutorial includes a very brief reference of all Git commands available. You can use it to quickly review the commands that you need to use.
+
+Note: As you progress this course you may see updated or repeated content due to Google’s regular review of the certificate program to provide the most up-to-date skills and tools in the industry. These changes include the addition of new practice material and supportive content. In addition, Google’s certificate updates sometimes include changes to graded items like quizzes and labs. If you have previously completed a graded item in this course, you may need to take a new assessment to complete this course. We hope the new content will support you on your learning journey!
