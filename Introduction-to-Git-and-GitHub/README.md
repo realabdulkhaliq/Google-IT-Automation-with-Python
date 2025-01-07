@@ -53,5 +53,12 @@ Here are a few ways you can give and get help:
 Connect with other learners: If you have a question, chances are, you’re not alone. You can visit Coursera’s private
 Google IT 201 Automation with Python Community
 to expand your network, discuss career journeys, and share experiences. You can also check out the
-quick start guide
-.
+quick start guide.
+
+Study together: It can be hard to find the time to progress through a Google Career Certificate with all life’s distractions.
+Register for Study Group
+– live study sessions hosted Monday through Thursday that offer you dedicated time and space to focus on your coursework alongside a community of your peers.
+
+Build your Career Identity: Your career identity is the unique value you bring to the workforce.
+[Watch this video](https://www.youtube.com/watch?v=_xbT4qMrot4)
+to learn about the key components of career identity and write your own career identity statement. Discovering and defining your own career identity makes you better equipped to choose a career path that aligns with your strengths, values, and goals and is more effective in your chosen profession.
