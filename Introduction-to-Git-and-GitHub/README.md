@@ -26,3 +26,32 @@ We'll use Linux for our examples, but you can follow along with Windows or MacOS
 
 Obtain the Google IT Automation with Python Professional Certificate
 To receive your official Google IT Automation with Python Professional Certificate, you must:
+
+Pass all graded assignments in all 6 courses of the certificate program. Each graded assignment is part of a cumulative graded score for the course, and the passing grade for each course is 80%.
+
+AND one of the following:
+
+Pay the
+course certificate fee
+,
+
+Be approved for
+Coursera Financial Aid
+, or
+
+Complete the certificate through an educational institution, employer, or agency that's sponsoring your participation.
+
+How deadlines work
+When you enroll in the course, the system automatically sets a deadline for when you need to complete each section. Heads up: These deadlines are there to help you organize your time, but you can take the course at your own pace. If you "miss" a deadline, you can just reset it to a new date. There’s no time limit in which you have to finish the course, and you can earn the certificate whenever you finish.
+
+Qwiklabs
+For some of our exercises, you'll be using an application called Qwiklabs. Qwiklabs lets you interact with a computer running an operating system that might not be the same one running on your machine. The Qwiklabs scenarios will allow you to solve some real-world problems, putting your knowledge to work through active learning exercises.
+
+Getting and giving help
+Here are a few ways you can give and get help:
+
+Connect with other learners: If you have a question, chances are, you’re not alone. You can visit Coursera’s private
+Google IT 201 Automation with Python Community
+to expand your network, discuss career journeys, and share experiences. You can also check out the
+quick start guide
+.
