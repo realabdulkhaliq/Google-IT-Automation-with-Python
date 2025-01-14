@@ -47,3 +47,8 @@ git add -p
 
 $ [git add -p](https://git-scm.com/docs/git-add)
 allows a user to interactively review patches before adding to the current commit.
+
+git mv
+
+$ [git mv](https://git-scm.com/docs/git-mv)
+is similar to the Linux `mv` command. This command can move or rename a file, directory, or symlink.
