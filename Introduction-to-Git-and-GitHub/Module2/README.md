@@ -11,3 +11,14 @@ In this module, you’ll dive into advanced Git interactions by skipping the sta
 - Create new branches
 - Use merging to combine branched data
 - Manage and handle merge conflicts
+
+## Advanced Git
+
+Command
+
+Explanation & Link
+
+git commit -a
+
+$ [git commit -a](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---all)
+automatically stages the files that have been locally modified. New files which have not been published yet are not affected.
