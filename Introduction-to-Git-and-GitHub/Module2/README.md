@@ -27,3 +27,17 @@ git log -p
 
 $ [git log -p](https://git-scm.com/docs/git-log#generate_patch_text_with_p)
 produces patch text that displays the lines of code that were changed in each commit in the current repo.
+git show
+
+$ [git show](https://git-scm.com/docs/git-show)
+shows you one or more object(s) such as blobs, trees, tags, and commits.
+
+git diff
+
+$ [git diff](https://git-scm.com/docs/git-diff)
+is similar to the Linux `diff` command, and can show the changes between commits, changes between the working tree and index, changes between two trees, changes from a merge, and so on.
+
+git diff --staged
+
+$ [git diff --staged](https://git-scm.com/docs/git-diff)
+is an alias of $ git diff --cached, which shows all staged files compared to the named commit.
