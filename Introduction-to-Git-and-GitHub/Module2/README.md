@@ -27,6 +27,7 @@ git log -p
 
 $ [git log -p](https://git-scm.com/docs/git-log#generate_patch_text_with_p)
 produces patch text that displays the lines of code that were changed in each commit in the current repo.
+
 git show
 
 $ [git show](https://git-scm.com/docs/git-show)
@@ -41,3 +42,8 @@ git diff --staged
 
 $ [git diff --staged](https://git-scm.com/docs/git-diff)
 is an alias of $ git diff --cached, which shows all staged files compared to the named commit.
+
+git add -p
+
+$ [git add -p](https://git-scm.com/docs/git-add)
+allows a user to interactively review patches before adding to the current commit.
