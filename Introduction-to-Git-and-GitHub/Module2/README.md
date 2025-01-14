@@ -60,3 +60,13 @@ is similar to the Linux `rm` command. This command deletes or removes a file fro
 
 There are many useful git command summaries online as well. Please take some time to research and study a few, such as
 this one.
+
+.gitignore files
+.gitignore files are used to tell the git tool to intentionally ignore some files in a given Git repository. For example, this can be useful for configuration files or metadata files that a user may not want to check into the master branch.
+
+When writing a .gitignore file, there are some specific formats which help tell Git how to read the text in the file. For example, a line starting with # is a comment; a slash / is a directory separator. Visit
+https://git-scm.com/docs/gitignore
+to see more examples.
+
+This GitHub repository
+offers some examples of configurations which are often included in a .gitignore file. These examples include: compiled sources, packages, logs, databases, and OS generated files.
