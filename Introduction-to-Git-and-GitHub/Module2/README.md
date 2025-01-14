@@ -22,3 +22,8 @@ git commit -a
 
 $ [git commit -a](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---all)
 automatically stages the files that have been locally modified. New files which have not been published yet are not affected.
+
+git log -p
+
+$ [git log -p](https://git-scm.com/docs/git-log#generate_patch_text_with_p)
+produces patch text that displays the lines of code that were changed in each commit in the current repo.
