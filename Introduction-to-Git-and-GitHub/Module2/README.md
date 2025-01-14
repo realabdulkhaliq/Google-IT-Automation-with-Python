@@ -52,3 +52,11 @@ git mv
 
 $ [git mv](https://git-scm.com/docs/git-mv)
 is similar to the Linux `mv` command. This command can move or rename a file, directory, or symlink.
+
+git rm
+
+$ [git rm](https://git-scm.com/docs/git-rm)
+is similar to the Linux `rm` command. This command deletes or removes a file from the working tree.
+
+There are many useful git command summaries online as well. Please take some time to research and study a few, such as
+this one.
