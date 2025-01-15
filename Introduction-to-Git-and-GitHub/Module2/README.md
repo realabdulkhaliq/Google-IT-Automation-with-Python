@@ -77,3 +77,10 @@ When writing and committing code, making mistakes is a common occurrence. Thankf
 
 [git checkout](https://git-scm.com/docs/git-checkout)
 is used to switch branches. For example, you might want to pull from your main branch. In this case, you would use the command git checkout main. This will switch to your main branch, allowing you to pull. Then you could switch to another branch by using the command git checkout <branch>.
+
+[git reset](https://git-scm.com/docs/git-reset#_examples)
+can be somewhat difficult to understand. Say you have just used the command git add. to stage all of your changes, but then you decide that you are not ready to stage those files. You could use the command git reset to undo the staging of your files.
+
+There are some other useful articles online, which discuss more aggressive approaches to
+resetting the repo
+(Git repository). As discussed in this article, doing a hard reset can be extremely dangerous. With a hard reset, you run the risk of losing your local changes. There are safer ways to achieve the same effect. For example, you could run git stash, which will temporarily shelve or stash your current changes. This way, your current changes are kept safe, and you can come back to them if needed.
