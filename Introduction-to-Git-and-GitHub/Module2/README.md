@@ -70,3 +70,10 @@ to see more examples.
 
 This GitHub repository
 offers some examples of configurations which are often included in a .gitignore file. These examples include: compiled sources, packages, logs, databases, and OS generated files.
+
+## Git Revert
+
+When writing and committing code, making mistakes is a common occurrence. Thankfully, there are multiple ways for you to revert or undo your mistakes. Take a look at the helpful commands below.
+
+[git checkout](https://git-scm.com/docs/git-checkout)
+is used to switch branches. For example, you might want to pull from your main branch. In this case, you would use the command git checkout main. This will switch to your main branch, allowing you to pull. Then you could switch to another branch by using the command git checkout <branch>.
