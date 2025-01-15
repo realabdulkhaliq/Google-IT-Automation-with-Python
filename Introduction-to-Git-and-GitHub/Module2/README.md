@@ -84,3 +84,6 @@ can be somewhat difficult to understand. Say you have just used the command git 
 There are some other useful articles online, which discuss more aggressive approaches to
 resetting the repo
 (Git repository). As discussed in this article, doing a hard reset can be extremely dangerous. With a hard reset, you run the risk of losing your local changes. There are safer ways to achieve the same effect. For example, you could run git stash, which will temporarily shelve or stash your current changes. This way, your current changes are kept safe, and you can come back to them if needed.
+
+[git commit --amend](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend)
+is used to make changes to your most recent commit after-the-fact, which can be useful for making notes about or adding files to your most recent commit. Be aware that this git --amend command rewrites and replaces your previous commit, so it is best not to use this command on a published commit.
