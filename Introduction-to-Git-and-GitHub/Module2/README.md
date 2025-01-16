@@ -110,3 +110,15 @@ Feel free to read more here:
 [SHA-1 collision detection on GitHub.com](https://github.blog/2017-03-20-sha-1-collision-detection-on-github-com/)
 
 Even the most accomplished developers make mistakes in Git. It happens to everyone, so don’t stress about it. You have these and other methods to help you revert or undo your mistakes.
+
+## Git branches and merging
+
+git branch
+
+$ [git branch](https://git-scm.com/docs/git-branch)
+can be used to list, create, or delete branches.
+
+git branch <name>
+
+$ [git branch <name>](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+can be used to create a new branch in your repository.
