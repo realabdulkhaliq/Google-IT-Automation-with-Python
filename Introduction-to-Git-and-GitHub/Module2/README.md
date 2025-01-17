@@ -132,3 +132,8 @@ git branch -D <name>
 
 $ [git branch -D <branch>](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--D)
 forces a branch to be deleted.
+
+git checkout <branch>
+
+$ [git checkout <branch>](https://git-scm.com/docs/git-checkout)
+switches your current working branch.
