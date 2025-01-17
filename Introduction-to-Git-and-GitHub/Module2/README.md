@@ -137,3 +137,8 @@ git checkout <branch>
 
 $ [git checkout <branch>](https://git-scm.com/docs/git-checkout)
 switches your current working branch.
+
+git checkout -b <new-branch>
+
+$ [git checkout -b <new-branch>](https://git-scm.com/docs/git-checkout#Documentation/git-checkout.txt--bltnewbranchgt)
+creates a new branch and makes it your current working branch.
