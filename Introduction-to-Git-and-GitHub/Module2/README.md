@@ -127,3 +127,8 @@ git branch -d <name>
 
 $ [git branch -d <name>](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--D)
 can be used to delete a branch from your repository.
+
+git branch -D <name>
+
+$ [git branch -D <branch>](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--D)
+forces a branch to be deleted.
