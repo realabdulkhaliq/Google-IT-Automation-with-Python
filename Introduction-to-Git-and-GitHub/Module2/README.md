@@ -122,3 +122,8 @@ git branch <name>
 
 $ [git branch <name>](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 can be used to create a new branch in your repository.
+
+git branch -d <name>
+
+$ [git branch -d <name>](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--D)
+can be used to delete a branch from your repository.
