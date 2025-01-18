@@ -142,3 +142,8 @@ git checkout -b <new-branch>
 
 $ [git checkout -b <new-branch>](https://git-scm.com/docs/git-checkout#Documentation/git-checkout.txt--bltnewbranchgt)
 creates a new branch and makes it your current working branch.
+
+git merge <branch>
+
+$ [git merge <branch>](https://git-scm.com/docs/git-merge)
+joins changes from one branch into another branch.
