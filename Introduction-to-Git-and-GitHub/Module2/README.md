@@ -152,3 +152,8 @@ git merge --abort
 
 $ [git merge --abort](https://git-scm.com/docs/git-merge)
 can only be used after merge conflicts. This command will abort the merge and try to go back to the pre-merge state.
+
+git log --graph
+
+$ [git log --graph](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+prints an ASCII graph of the commit and merge history.
