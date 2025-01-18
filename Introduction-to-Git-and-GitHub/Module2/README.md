@@ -147,3 +147,8 @@ git merge <branch>
 
 $ [git merge <branch>](https://git-scm.com/docs/git-merge)
 joins changes from one branch into another branch.
+
+git merge --abort
+
+$ [git merge --abort](https://git-scm.com/docs/git-merge)
+can only be used after merge conflicts. This command will abort the merge and try to go back to the pre-merge state.
