@@ -157,3 +157,8 @@ git log --graph
 
 $ [git log --graph](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
 prints an ASCII graph of the commit and merge history.
+
+git log --oneline
+
+$ [git log --oneline](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+prints each commit on a single line.
