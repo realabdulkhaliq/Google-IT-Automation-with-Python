@@ -21,3 +21,9 @@ There are various remote repository hosting sites:
 [BitBucket](https://bitbucket.org/product)
 
 [Gitlab](https://gitlab.com/)
+
+Follow the workflow at
+https://github.com/join
+to set up a free account, username, and password. After that,
+these steps
+will help you create a brand new repository on GitHub.
