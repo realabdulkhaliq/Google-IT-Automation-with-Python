@@ -11,3 +11,13 @@ Utilize remote repositories, fetch new changes, and update local repositories
 Utilize the pull-merge-push workflow to address conflicts
 Push remote branches so code can be viewed and tested by collaborators
 Explain what rebasing is
+
+## Basic Interaction with GitHub
+
+There are various remote repository hosting sites:
+
+[GitHub](http://github.com/)
+
+[BitBucket](https://bitbucket.org/product)
+
+[Gitlab](https://gitlab.com/)
