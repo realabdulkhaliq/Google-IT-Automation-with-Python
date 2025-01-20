@@ -41,3 +41,9 @@ git push
 git pull
 
 [Git pull is used to fetch the newest updates from a remote repository](https://git-scm.com/docs/git-pull)
+
+This can be useful for keeping your local workspace up to date.
+
+https://help.github.com/en/articles/caching-your-github-password-in-git
+
+https://help.github.com/en/articles/generating-an-ssh-key
