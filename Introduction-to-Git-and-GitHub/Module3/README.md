@@ -37,3 +37,7 @@ git clone URL
 git push
 
 [Git push is used to push commits from your local repo to a remote repo](https://git-scm.com/docs/git-push)
+
+git pull
+
+[Git pull is used to fetch the newest updates from a remote repository](https://git-scm.com/docs/git-pull)
