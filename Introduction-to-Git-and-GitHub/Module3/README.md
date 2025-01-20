@@ -33,4 +33,7 @@ will help you create a brand new repository on GitHub.
 git clone URL
 
 [Git clone is used to clone a remote repository into a local workspace](https://git-scm.com/docs/git-clone)
-.
+
+git push
+
+[Git push is used to push commits from your local repo to a remote repo](https://git-scm.com/docs/git-push)
