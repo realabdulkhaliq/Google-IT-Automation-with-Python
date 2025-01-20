@@ -27,3 +27,9 @@ https://github.com/join
 to set up a free account, username, and password. After that,
 these steps
 will help you create a brand new repository on GitHub.
+
+**Some useful commands for getting started:**
+
+git clone URL
+
+[Git clone is used to clone a remote repository into a local workspace](https://git-scm.com/docs/git-clone)
