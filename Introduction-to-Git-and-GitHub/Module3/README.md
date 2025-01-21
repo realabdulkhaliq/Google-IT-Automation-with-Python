@@ -90,3 +90,5 @@ Read the error messages that imply you cannot push your local changes to GitHub,
 Use the command line or GitHub Desktop to push the change to your branch on GitHub after you make a local clone of the repository for all other types of merge conflicts.
 
 Before merging any commits to the master branch, push it into a remote repository so that collaborators can view the code, test it, and inform you that it’s ready for merging.
+
+Use the Git rebase command to replay the new commits on top of the new base and then merge the feature branch back into the master.
