@@ -47,3 +47,10 @@ This can be useful for keeping your local workspace up to date.
 https://help.github.com/en/articles/caching-your-github-password-in-git
 
 https://help.github.com/en/articles/generating-an-ssh-key
+
+## Git Remotes
+
+git remote
+
+$ [git remote](https://git-scm.com/docs/git-remote)
+allows you to manage the set of repositories or “remotes” whose branches you track.
