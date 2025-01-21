@@ -84,3 +84,5 @@ lists remote branches and can be combined with other branch arguments to manage 
 Here are some tips to keep in mind when you’re resolving merge conflicts:
 
 After running Git merge, a message will appear informing that a conflict occurred on the file.
+
+Read the error messages that imply you cannot push your local changes to GitHub, especially the remote changes with Git pull.
