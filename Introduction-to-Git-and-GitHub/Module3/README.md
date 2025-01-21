@@ -79,3 +79,8 @@ git branch -r
 
 $ [git branch -r](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r)
 lists remote branches and can be combined with other branch arguments to manage remote branches.
+
+**Tips for resolving merge conflicts**
+Here are some tips to keep in mind when you’re resolving merge conflicts:
+
+After running Git merge, a message will appear informing that a conflict occurred on the file.
