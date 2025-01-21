@@ -74,3 +74,8 @@ git fetch
 
 $ [git fetch](https://git-scm.com/docs/git-fetch)
 can download objects and refs from a single repo, a single URL, or from several repositories at once.
+
+git branch -r
+
+$ [git branch -r](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r)
+lists remote branches and can be combined with other branch arguments to manage remote branches.
