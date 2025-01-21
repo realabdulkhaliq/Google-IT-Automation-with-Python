@@ -54,3 +54,8 @@ git remote
 
 $ [git remote](https://git-scm.com/docs/git-remote)
 allows you to manage the set of repositories or “remotes” whose branches you track.
+
+git remote -v
+
+$ [git remote -v](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt--v)
+is similar to $ git remote, but adding the -v shows more information such as the remote URL.
