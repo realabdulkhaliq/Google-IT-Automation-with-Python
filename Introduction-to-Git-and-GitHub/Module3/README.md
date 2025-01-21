@@ -59,3 +59,8 @@ git remote -v
 
 $ [git remote -v](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt--v)
 is similar to $ git remote, but adding the -v shows more information such as the remote URL.
+
+git remote show <name>
+
+$ [git remote show <name>](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem)
+shows some information about a single remote repo.
