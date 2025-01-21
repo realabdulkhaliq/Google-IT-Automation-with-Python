@@ -69,3 +69,8 @@ git remote update
 
 $ [git remote update](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emupdateem)
 fetches updates for remotes or remote groups.
+
+git fetch
+
+$ [git fetch](https://git-scm.com/docs/git-fetch)
+can download objects and refs from a single repo, a single URL, or from several repositories at once.
