@@ -64,3 +64,8 @@ git remote show <name>
 
 $ [git remote show <name>](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem)
 shows some information about a single remote repo.
+
+git remote update
+
+$ [git remote update](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emupdateem)
+fetches updates for remotes or remote groups.
