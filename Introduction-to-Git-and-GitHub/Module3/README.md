@@ -100,3 +100,5 @@ Application Programming Interface (API) key: This is an authentication token tha
 Computer protocols: Guidelines published as open standards so that any given protocol can be implemented in various products
 
 Distributed: Each developer has a copy of the whole repository on their local machine
+
+GitHub: A web-based Git repository hosting service, allowing users to share and access repositories on the web and copy or clone them to a local computer
