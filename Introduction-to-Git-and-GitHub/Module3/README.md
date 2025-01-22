@@ -118,3 +118,5 @@ Secure Shell (SSH): A robust protocol for connecting to servers remotely
 SSH client: This establishes a connection to the SSH server, ensuring a secure interaction, where the client makes access requests
 
 SSH key: An access credential
+
+SSH protocol: Standard commonly used for logging in to servers remotely on the principle of public-key encryption
