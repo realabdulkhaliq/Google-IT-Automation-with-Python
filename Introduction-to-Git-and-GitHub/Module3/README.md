@@ -104,3 +104,5 @@ Distributed: Each developer has a copy of the whole repository on their local ma
 GitHub: A web-based Git repository hosting service, allowing users to share and access repositories on the web and copy or clone them to a local computer
 
 Merge: An operation that merges the origin/master branch into a local master branch
+
+Private key: A secret and secure cryptographic key that must be kept confidential and protected and is used to decrypt data that has been encrypted with the corresponding public key
