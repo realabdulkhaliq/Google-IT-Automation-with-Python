@@ -120,3 +120,5 @@ SSH client: This establishes a connection to the SSH server, ensuring a secure i
 SSH key: An access credential
 
 SSH protocol: Standard commonly used for logging in to servers remotely on the principle of public-key encryption
+
+SSH server: This establishes secure network connections, undergoes mutual authentication, and initiates encrypted login sessions or file transfers.
