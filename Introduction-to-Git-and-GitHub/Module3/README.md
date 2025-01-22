@@ -98,3 +98,5 @@ Use the Git rebase command to replay the new commits on top of the new base and 
 Application Programming Interface (API) key: This is an authentication token that calls an API, which is then called to identify the person, programmer, or program trying to access a website
 
 Computer protocols: Guidelines published as open standards so that any given protocol can be implemented in various products
+
+Distributed: Each developer has a copy of the whole repository on their local machine
