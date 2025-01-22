@@ -112,3 +112,5 @@ Rebasing: The base commit that's used for a branch is changed
 Remote branches: Git uses read-only branches to keep copies of the data that's stored in the remote repository
 
 Remote repositories: Repositories that allow developers to contribute to a project from their own workstations making changes to local copies of the project independently of one another
+
+Secure Shell (SSH): A robust protocol for connecting to servers remotely
