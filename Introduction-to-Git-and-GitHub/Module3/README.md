@@ -108,3 +108,5 @@ Merge: An operation that merges the origin/master branch into a local master bra
 Private key: A secret and secure cryptographic key that must be kept confidential and protected and is used to decrypt data that has been encrypted with the corresponding public key
 
 Rebasing: The base commit that's used for a branch is changed
+
+Remote branches: Git uses read-only branches to keep copies of the data that's stored in the remote repository
