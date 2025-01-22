@@ -94,3 +94,5 @@ Before merging any commits to the master branch, push it into a remote repositor
 Use the Git rebase command to replay the new commits on top of the new base and then merge the feature branch back into the master.
 
 ### Terms and definitions from Course 3, Module 3
+
+Application Programming Interface (API) key: This is an authentication token that calls an API, which is then called to identify the person, programmer, or program trying to access a website
