@@ -116,3 +116,5 @@ Remote repositories: Repositories that allow developers to contribute to a proje
 Secure Shell (SSH): A robust protocol for connecting to servers remotely
 
 SSH client: This establishes a connection to the SSH server, ensuring a secure interaction, where the client makes access requests
+
+SSH key: An access credential
