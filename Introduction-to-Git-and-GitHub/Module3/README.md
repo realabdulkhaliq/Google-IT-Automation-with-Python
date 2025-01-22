@@ -106,3 +106,5 @@ GitHub: A web-based Git repository hosting service, allowing users to share and 
 Merge: An operation that merges the origin/master branch into a local master branch
 
 Private key: A secret and secure cryptographic key that must be kept confidential and protected and is used to decrypt data that has been encrypted with the corresponding public key
+
+Rebasing: The base commit that's used for a branch is changed
