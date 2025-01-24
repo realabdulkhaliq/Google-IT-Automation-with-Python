@@ -10,3 +10,5 @@ Use code reviews in GitHub
 Explain the importance of managing projects and accepting or rejecting changes
 Utilize issue trackers
 Describe the methodology behind continuous integration
+
+Merge commits. All commits from the feature branch are added to the base branch in a merge commit using the -- no–ff option.
