@@ -14,3 +14,5 @@ Describe the methodology behind continuous integration
 Merge commits. All commits from the feature branch are added to the base branch in a merge commit using the -- no–ff option.
 
 Squash and merge commits. Multiple commits of a pull request are squashed, or combined into a single commit, using the fast-forward option. It is recommended that when merging two branches, pull requests are squashed and merged to prevent the likelihood of conflicts due to redundancy.
+
+Merge message for a squash merge. GitHub generates a default commit message, which you can edit. This message may include the pull request title, pull request description, or information about the commits.
