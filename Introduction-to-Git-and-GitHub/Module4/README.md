@@ -18,3 +18,5 @@ Squash and merge commits. Multiple commits of a pull request are squashed, or co
 Merge message for a squash merge. GitHub generates a default commit message, which you can edit. This message may include the pull request title, pull request description, or information about the commits.
 
 Rebase and merge commits. All commits from the topic branch are added onto the base branch individually without a merge commit.
+
+Indirect merges. GitHub can merge a pull request automatically if the head branch is directly or indirectly merged into the base branch externally.
