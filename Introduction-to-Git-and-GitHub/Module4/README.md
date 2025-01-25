@@ -40,3 +40,5 @@ Go to SSH and GPG keys.
 Click New SSH key.
 
 Paste the contents of your public key into the text box and click Add SSH key.
+
+### Resources for more information
