@@ -20,3 +20,5 @@ Merge message for a squash merge. GitHub generates a default commit message, whi
 Rebase and merge commits. All commits from the topic branch are added onto the base branch individually without a merge commit.
 
 Indirect merges. GitHub can merge a pull request automatically if the head branch is directly or indirectly merged into the base branch externally.
+
+## SSH authentication
