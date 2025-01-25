@@ -24,3 +24,19 @@ Indirect merges. GitHub can merge a pull request automatically if the head branc
 ## SSH authentication
 
 In the previous module, you learned how to generate an SSH key pair and use it for logging in to remote hosts. You can use the same SSH key to authenticate with GitHub.
+
+To add your SSH key for use with GitHub:
+
+Find the public key you generated in the previous module. It will have a filename like id_rsa.pub.
+
+Open
+GitHub.com
+in your browser.
+
+Click on your profile icon in the top right corner and select Settings.
+
+Go to SSH and GPG keys.
+
+Click New SSH key.
+
+Paste the contents of your public key into the text box and click Add SSH key.
