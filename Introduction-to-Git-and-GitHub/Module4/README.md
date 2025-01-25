@@ -42,3 +42,7 @@ Click New SSH key.
 Paste the contents of your public key into the text box and click Add SSH key.
 
 ### Resources for more information
+
+[A Quick Guide to Using GitHub for Project Management](https://www.jobsity.com/blog/a-quick-guide-to-using-github-for-project-management)
+
+This article provides a brief overview of project management tools on GitHub.
