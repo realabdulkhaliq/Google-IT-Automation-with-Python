@@ -22,3 +22,5 @@ Rebase and merge commits. All commits from the topic branch are added onto the b
 Indirect merges. GitHub can merge a pull request automatically if the head branch is directly or indirectly merged into the base branch externally.
 
 ## SSH authentication
+
+In the previous module, you learned how to generate an SSH key pair and use it for logging in to remote hosts. You can use the same SSH key to authenticate with GitHub.
