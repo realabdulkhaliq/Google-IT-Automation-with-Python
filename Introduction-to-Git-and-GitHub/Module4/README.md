@@ -50,3 +50,7 @@ This article provides a brief overview of project management tools on GitHub.
 [GitHub for project management](https://openscapes.github.io/series/core-lessons/github/github-issues.html)
 
 This lesson offers detailed descriptions of GitHub’s project management tools.
+
+[Using GitHub as your Project Management Tool](https://www.youtube.com/watch?v=qgQAFP6oSKw)
+
+This video provides examples on GitHub project management tools.
