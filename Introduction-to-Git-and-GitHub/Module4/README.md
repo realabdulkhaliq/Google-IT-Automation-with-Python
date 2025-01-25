@@ -54,3 +54,7 @@ This lesson offers detailed descriptions of GitHub’s project management tools.
 [Using GitHub as your Project Management Tool](https://www.youtube.com/watch?v=qgQAFP6oSKw)
 
 This video provides examples on GitHub project management tools.
+
+[GitHub Issues: Project Planning for Developers](https://github.com/features/issues)
+
+This GitHub page shows the many project management tools available for developers.
