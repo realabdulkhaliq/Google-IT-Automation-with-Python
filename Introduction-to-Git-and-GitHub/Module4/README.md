@@ -62,3 +62,5 @@ This GitHub page shows the many project management tools available for developer
 ### Terms and definitions from Course 3, Module 4
 
 CI/CD: The name for the entire continuous integration and continuous deployment system
+
+Code reviews: The deliberate and methodical gathering of other programmers to examine each other's code for errors to increase the code quality and reduces the amount of bugs
