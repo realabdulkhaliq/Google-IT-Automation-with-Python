@@ -60,3 +60,5 @@ This video provides examples on GitHub project management tools.
 This GitHub page shows the many project management tools available for developers.
 
 ### Terms and definitions from Course 3, Module 4
+
+CI/CD: The name for the entire continuous integration and continuous deployment system
