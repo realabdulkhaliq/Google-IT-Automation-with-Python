@@ -66,3 +66,5 @@ CI/CD: The name for the entire continuous integration and continuous deployment 
 Code reviews: The deliberate and methodical gathering of other programmers to examine each other's code for errors to increase the code quality and reduces the amount of bugs
 
 Continuous deployment (CD): New code is deployed often after it has been automatically built and tested
+
+Continuous integration (CI): A system that will automatically build and test our code every time there's a change
