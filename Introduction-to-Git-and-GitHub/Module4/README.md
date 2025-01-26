@@ -68,3 +68,5 @@ Code reviews: The deliberate and methodical gathering of other programmers to ex
 Continuous deployment (CD): New code is deployed often after it has been automatically built and tested
 
 Continuous integration (CI): A system that will automatically build and test our code every time there's a change
+
+Fix up: The decision to discard commit messages for that commit
