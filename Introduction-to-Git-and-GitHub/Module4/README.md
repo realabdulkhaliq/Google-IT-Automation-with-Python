@@ -70,3 +70,5 @@ Continuous deployment (CD): New code is deployed often after it has been automat
 Continuous integration (CI): A system that will automatically build and test our code every time there's a change
 
 Fix up: The decision to discard commit messages for that commit
+
+Forking: A way of creating a copy of the given repository so that it belongs to our user
