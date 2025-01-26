@@ -58,3 +58,5 @@ This video provides examples on GitHub project management tools.
 [GitHub Issues: Project Planning for Developers](https://github.com/features/issues)
 
 This GitHub page shows the many project management tools available for developers.
+
+### Terms and definitions from Course 3, Module 4
