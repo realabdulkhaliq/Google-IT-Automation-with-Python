@@ -72,3 +72,5 @@ Continuous integration (CI): A system that will automatically build and test our
 Fix up: The decision to discard commit messages for that commit
 
 Forking: A way of creating a copy of the given repository so that it belongs to our user
+
+Indirect merges: GitHub can merge a pull request automatically if the head branch is directly or indirectly merged into the base branch externally
