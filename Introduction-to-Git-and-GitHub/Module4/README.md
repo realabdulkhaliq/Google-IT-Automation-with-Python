@@ -76,3 +76,5 @@ Forking: A way of creating a copy of the given repository so that it belongs to 
 Indirect merges: GitHub can merge a pull request automatically if the head branch is directly or indirectly merged into the base branch externally
 
 Issue tracker (bug tracker): A tracker that shows tasks that need to be done, the state they're in and who's working on them
+
+Merge commits: All commits from the feature branch are added to the base branch
