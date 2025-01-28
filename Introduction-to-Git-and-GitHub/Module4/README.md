@@ -101,4 +101,12 @@ git log
 # Create a new tag
 
 git tag v1.0.0
+
+
+# Compare branches
+
+git diff feature/user-authentication main
+
+Undoing things: As you encounter issues, you have stable milestones you know you can restore back. You can stash away pending changes or, safely undo changes using Git's commands.
+
 ```
