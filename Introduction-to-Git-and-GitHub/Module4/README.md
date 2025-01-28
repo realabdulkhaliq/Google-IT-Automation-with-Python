@@ -84,3 +84,5 @@ Pipelines: The specific steps that need to run to obtain the desired result
 Pull request: A procedure where new code is examined before it is merged to create a branch or master branch
 
 Squash commits: The decision add commit messages together and an editor opens to make any necessary changes
+
+### Project
