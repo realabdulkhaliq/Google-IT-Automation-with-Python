@@ -88,3 +88,17 @@ Squash commits: The decision add commit messages together and an editor opens to
 ### Project
 
 Advanced git interaction: You use git diff to view and compare code changes and look back at the history of changes. When needed you can use git diff to compare whole branches as the feature becomes more robust. As you get closer to completing the feature you create tags to mark development milestones. When feature release is approaching, you can use a milestone to share progress with stakeholders.
+
+```
+# View code changes
+
+git diff
+
+# View commit history
+
+git log
+
+# Create a new tag
+
+git tag v1.0.0
+```
