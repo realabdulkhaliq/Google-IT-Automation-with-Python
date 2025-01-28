@@ -109,4 +109,11 @@ git diff feature/user-authentication main
 
 Undoing things: As you encounter issues, you have stable milestones you know you can restore back. You can stash away pending changes or, safely undo changes using Git's commands.
 
+# Stash changes
+
+git stash
+
+# Restore changes from stash
+
+git stash pop
 ```
