@@ -116,4 +116,11 @@ git stash
 # Restore changes from stash
 
 git stash pop
+
+# Undo changes in working directory
+
+git checkout -- <file>
+
+Branching and merging: Your team makes sure to keep up with branching and merging changes. The team tests their changes in the feature branch to avoid introducing any issues or bugs into the main branch.
+
 ```
