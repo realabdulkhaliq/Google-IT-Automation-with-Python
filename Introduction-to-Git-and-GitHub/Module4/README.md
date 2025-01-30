@@ -139,5 +139,14 @@ Solving Conflicts: As code conflicts arise during merging, you attempt to autome
 
 git merge feature/user-authentication
 
+# Resolve conflicts manually
+
+# Edit files to resolve conflicts
+
+git add <resolved-files>
+
+git commit -m "Resolved conflicts"
+
+Pull requests and code reviews: One of your team members opens up a pull request for your feature branch. It is finally time to merge our feature into the main branch. Automated tests run against the code in question and your team schedules a code review. You prepare to gather and track feedback.
 
 ```
