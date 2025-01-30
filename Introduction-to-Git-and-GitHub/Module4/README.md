@@ -135,5 +135,9 @@ git branch -d feature/user-authentication
 
 Solving Conflicts: As code conflicts arise during merging, you attempt to automerge. When deeper conflicts arise, you gather your team and address them collaboratively.
 
+# Attempt to automerge
+
+git merge feature/user-authentication
+
 
 ```
