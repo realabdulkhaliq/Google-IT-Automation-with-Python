@@ -123,4 +123,10 @@ git checkout -- <file>
 
 Branching and merging: Your team makes sure to keep up with branching and merging changes. The team tests their changes in the feature branch to avoid introducing any issues or bugs into the main branch.
 
+# Merge changes from feature branch to main
+
+git checkout main
+
+git merge feature/user-authentication
+
 ```
