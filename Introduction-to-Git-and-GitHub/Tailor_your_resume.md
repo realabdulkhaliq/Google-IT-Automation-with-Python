@@ -21,3 +21,7 @@ Create one primary resume to edit and tailor to each job application. You should
 Match the language used in the job description. Some employers use automation software to filter resumes. If the job description uses keywords like cloud services and risk management, make sure your resume uses those keywords, too.
 
 Use Python automation terminology. This will help the hiring manager reading your resume understand how your past experience is relevant to the role for which you are applying.
+
+Decide what not to include on your resume. You may have some skills that are important to you, but those same skills may confuse or distract the hiring managers reading your resume.
+
+Highlight how your experience and skills are relevant to the job. If you have been working as an IT Support Specialist but want to become a Python Automation Engineer, your troubleshooting skills will be essential in your new role. Make sure to point out how those skills will be beneficial to the employer.
