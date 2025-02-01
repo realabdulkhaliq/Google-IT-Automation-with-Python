@@ -25,3 +25,7 @@ Use Python automation terminology. This will help the hiring manager reading you
 Decide what not to include on your resume. You may have some skills that are important to you, but those same skills may confuse or distract the hiring managers reading your resume.
 
 Highlight how your experience and skills are relevant to the job. If you have been working as an IT Support Specialist but want to become a Python Automation Engineer, your troubleshooting skills will be essential in your new role. Make sure to point out how those skills will be beneficial to the employer.
+
+## Choose an appropriate format
+
+No matter what layout or template you choose for your resume, there are several things you should keep in mind
