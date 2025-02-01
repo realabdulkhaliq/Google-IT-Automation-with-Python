@@ -19,3 +19,5 @@ Identify what is important to the potential employer. What does the employer wan
 Create one primary resume to edit and tailor to each job application. You should make sure that the order of your skills and qualifications matches the job description. In doing this, you are making sure that the things that are most important to the employer are at the top.
 
 Match the language used in the job description. Some employers use automation software to filter resumes. If the job description uses keywords like cloud services and risk management, make sure your resume uses those keywords, too.
+
+Use Python automation terminology. This will help the hiring manager reading your resume understand how your past experience is relevant to the role for which you are applying.
