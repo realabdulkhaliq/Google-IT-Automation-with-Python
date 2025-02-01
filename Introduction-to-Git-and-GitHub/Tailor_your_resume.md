@@ -34,4 +34,4 @@ The design of your resume should be simple and easy to understand for both human
 
 Your resume should be easy to read and communicate all of the important information in short bullet points.
 
-Your resume should be one- to two-pages long and contain only the last ten to fifteen years of relevant experience. It is appropriate to use two columns on a one-page resume, but if your resume is two pages, be sure to use the entire width of the page.
+Your resume should be one to two pages long and contain only the last ten to fifteen years of relevant experience. It is appropriate to use two columns on a one-page resume, but if your resume is two pages, be sure to use the entire width of the page.
