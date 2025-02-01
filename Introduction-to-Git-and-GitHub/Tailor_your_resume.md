@@ -29,3 +29,5 @@ Highlight how your experience and skills are relevant to the job. If you have be
 ## Choose an appropriate format
 
 No matter what layout or template you choose for your resume, there are several things you should keep in mind
+
+The design of your resume should be simple and easy to understand for both human and artificial intelligence readers. You don’t want your resume to be discarded before a real person has a chance to read it!
