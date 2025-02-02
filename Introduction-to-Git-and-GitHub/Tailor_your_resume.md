@@ -49,3 +49,5 @@ Core competencies
 Professional experience
 
 Education and certifications
+
+**Pro tip:** Resumes should be written in the third person and should not contain personal pronouns.
