@@ -37,3 +37,15 @@ Your resume should be easy to read and communicate all of the important informat
 Your resume should be one to two pages long and contain only the last ten to fifteen years of relevant experience. It is appropriate to use two columns on a one-page resume, but if your resume is two pages, be sure to use the entire width of the page.
 
 ## Update the relevant sections
+
+Once you have determined the appropriate format for your resume, you will need to update each of your resume’s major sections, which include:
+
+Contact information
+
+Professional summary
+
+Core competencies
+
+Professional experience
+
+Education and certifications
