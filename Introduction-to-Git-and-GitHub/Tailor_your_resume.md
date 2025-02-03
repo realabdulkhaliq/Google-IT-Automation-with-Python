@@ -51,3 +51,5 @@ Professional experience
 Education and certifications
 
 **Pro tip:** Resumes should be written in the third person and should not contain personal pronouns.
+
+Let’s discuss how to incorporate your new skills into these sections of your resume.
