@@ -57,3 +57,15 @@ Let’s discuss how to incorporate your new skills into these sections of your r
 ### Contact information
 
 Your header should contain your contact information and should go at the top of your resume.
+
+Your header should include the following information:
+
+Your name in a larger font than the rest of your resume
+
+The city and state you live in (you do not need to include your street address for privacy purposes)
+
+Your phone number and a link to your email address
+
+Link to your LinkedIn profile URL
+
+Links to any other personal websites or portfolios, if applicable to the role you are applying for
