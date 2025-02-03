@@ -69,3 +69,7 @@ Your phone number and a link to your email address
 Link to your LinkedIn profile URL
 
 Links to any other personal websites or portfolios, if applicable to the role you are applying for
+
+Your header should be relevant, simple, and easy to read. Here is an example of a resume header:
+
+![Header Section of Resume](image.png)
