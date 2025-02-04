@@ -73,3 +73,7 @@ Links to any other personal websites or portfolios, if applicable to the role yo
 Your header should be relevant, simple, and easy to read. Here is an example of a resume header:
 
 ![Header Section of Resume](image.png)
+
+### Professional summary
+
+Below your header, include a professional summary.
