@@ -77,3 +77,5 @@ Your header should be relevant, simple, and easy to read. Here is an example of 
 ### Professional summary
 
 Below your header, include a professional summary.
+
+Use your summary to set the tone. Your summary should be one to three lines and should clearly state why you are the best candidate for the position. It should showcase the most important things you want the reader to know about you. If you are applying for a new role, you will want to update your industry specialty. You likely have experience that can be related to critical thinking and complex problem solving. You will want to incorporate that relevant experience into your new professional summary. Make sure you tailor your description of yourself to the role you are applying for.
