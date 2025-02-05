@@ -87,3 +87,7 @@ Automation Engineer with two years of demonstrated success in complex problem so
 Use keywords from the job description to describe yourself. If the job description states that the company is looking for a candidate with knowledge of cloud computing, Linux, or Bash scripting, you should add that to your resume—you have gained that knowledge with this certification.
 
 Once you have your professional introduction, your next sentence should describe how your unique expertise will make you valuable to the employer.
+
+**Pro tip:** Don’t forget to use this section to highlight something that makes you stand out from other applicants. Use an accomplishment from a previous role to show the employer what you can offer them. Take a look at this example of a professional summary section:
+
+![Summary](image-1.png)
