@@ -79,3 +79,11 @@ Your header should be relevant, simple, and easy to read. Here is an example of 
 Below your header, include a professional summary.
 
 Use your summary to set the tone. Your summary should be one to three lines and should clearly state why you are the best candidate for the position. It should showcase the most important things you want the reader to know about you. If you are applying for a new role, you will want to update your industry specialty. You likely have experience that can be related to critical thinking and complex problem solving. You will want to incorporate that relevant experience into your new professional summary. Make sure you tailor your description of yourself to the role you are applying for.
+
+Merge the description of the role you are applying for with your experience. Here is an example:
+
+Automation Engineer with two years of demonstrated success in complex problem solving. Skilled in cross-functional collaboration and project execution. Articulate communicator who thrives in a results-driven collaborative environment.
+
+Use keywords from the job description to describe yourself. If the job description states that the company is looking for a candidate with knowledge of cloud computing, Linux, or Bash scripting, you should add that to your resume—you have gained that knowledge with this certification.
+
+Once you have your professional introduction, your next sentence should describe how your unique expertise will make you valuable to the employer.
