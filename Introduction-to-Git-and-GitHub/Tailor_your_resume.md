@@ -93,3 +93,5 @@ Once you have your professional introduction, your next sentence should describe
 ![Summary](image-1.png)
 
 ### Core competencies
+
+Your core competencies should be a bulleted list of the most relevant skills applicable to the position you are applying for.
