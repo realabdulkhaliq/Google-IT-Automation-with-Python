@@ -91,3 +91,5 @@ Once you have your professional introduction, your next sentence should describe
 **Pro tip:** Don’t forget to use this section to highlight something that makes you stand out from other applicants. Use an accomplishment from a previous role to show the employer what you can offer them. Take a look at this example of a professional summary section:
 
 ![Summary](image-1.png)
+
+### Core competencies
