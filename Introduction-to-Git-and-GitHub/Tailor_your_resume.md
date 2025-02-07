@@ -101,3 +101,5 @@ Your core competencies should be a bulleted list of the most relevant skills app
 ![Competencies](image-2.png)
 
 ### Professional experience
+
+The professional experience section of your resume provides a summary of the roles and positions you have held in your career. List at least three positions in reverse chronological order and only include what is most relevant to the position you are applying for.
