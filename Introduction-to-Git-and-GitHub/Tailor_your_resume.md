@@ -99,3 +99,5 @@ Your core competencies should be a bulleted list of the most relevant skills app
 **Pro tip:** Scan the job description for core competencies you have gained during this certification and your past experience then use those skills as bullet points in this section. Make sure to keep this section relatively short, with four to eight bullets. Here is an example of a Python Automation Engineer resume core competencies section:
 
 ![Competencies](image-2.png)
+
+### Professional experience
