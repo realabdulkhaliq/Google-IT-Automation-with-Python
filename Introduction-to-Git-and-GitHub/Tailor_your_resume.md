@@ -121,3 +121,5 @@ Supporting evidence (awards, bonus, etc.)
 Below is an example of a professional experience section from a Python Automation Engineer’s resume:
 
 ![Experience](image-3.png)
+
+### Education and certificates
