@@ -105,3 +105,19 @@ Your core competencies should be a bulleted list of the most relevant skills app
 The professional experience section of your resume provides a summary of the roles and positions you have held in your career. List at least three positions in reverse chronological order and only include what is most relevant to the position you are applying for.
 
 Your professional experience will not change much from previous resumes, because you can’t change the past roles you have held. However, you can possibly rewrite some of your bullets to relate them to your target job’s requirements. Make sure you are tying the industry lingo back to your previous experience to show the reader—usually a hiring manager—how your skills relate to the advertised position. You may be able to use terms like troubleshooting, critical thinking, testing, implementation, and software maintenance to show the reader that your past experience translates to a Python Automation or Software Engineering role, for example.
+
+**Pro tip:** Make sure your resume conveys how your past accomplishments are valuable to the role you are applying for. Show the reader how you can make a difference in their organization. An easy way to remember this is through the P.A.R.I.S. framework:
+
+Problem that needed to be solved
+
+Action(s) I took
+
+Result of action(s)
+
+Impact on project (users, quality, etc.)
+
+Supporting evidence (awards, bonus, etc.)
+
+Below is an example of a professional experience section from a Python Automation Engineer’s resume:
+
+![Experience](image-3.png)
