@@ -123,3 +123,7 @@ Below is an example of a professional experience section from a Python Automatio
 ![Experience](image-3.png)
 
 ### Education and certificates
+
+Now that the majority of your resume has been updated with your new skills and knowledge, it is time to update your Education and Certifications section. In this section of your resume, you should include any degrees beyond your high school diploma in reverse chronological order. For each degree, list the degree you earned, institution, location, and date of graduation. This section should also list any professional certifications, licenses, or credentials you hold. It is here where you will list your new Google Professional Certificate. Here is an example of an education and credentials section of a Python Automation Engineer resume:
+
+![Education](image-4.png)
