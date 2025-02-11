@@ -137,3 +137,11 @@ Your resume is now updated and ready to use for your target job! You have revise
 ### What you will need
 
 To get started, select a resume template. You may choose from a resume template below, search the internet for a template that suits your style, or update your existing resume.
+
+To use a preselected template for this activity, click the links below to choose from the two resume options, the select “Use Template.”
+
+[Resume Template 1](https://docs.google.com/document/d/1JbeSx0Y7UMagT2CjXg6PxPfSN-KzZ7x56FSbaXTnLqE/template/preview?usp=sharing)
+
+- Google Doc format
+
+[Resume Template 2](https://docs.google.com/document/d/1-xDL-9tB5NBwd7JhoS5Ow8kFnTqVtO7dNqTY2CcFMLc/template/preview?usp=sharing)
