@@ -153,3 +153,5 @@ OR
 If you don’t have a Google account, download the templates directly from the attachments below - Microsoft Word format:
 
 [Resume Template 1 \[attached as an MS Word file\]](https://docs.google.com/document/d/1jwUBX3MdOBUYBFgHp3FVH9KH0D4dlyfE/template/preview?usp=sharing&ouid=113718681797269932550&rtpof=true&sd=true)
+
+[Resume Template 2 \[attached as an MS Word file\]](https://docs.google.com/document/d/1_n6W-0rkY4QAl5xvpgE8rhgoB88_lZU-/template/preview?usp=sharing&ouid=113718681797269932550&rtpof=true&sd=true)
