@@ -133,3 +133,7 @@ Your resume is now updated and ready to use for your target job! You have revise
 **Pro tip:** It is always a good idea to have someone review your resume for any spelling or grammatical errors. Recruiters and hiring managers often toss resumes aside that contain typos. Once you are sure your resume is error-free, it is time to start your job search!
 
 [IT Automation Engineer Resume Sample](https://docs.google.com/document/d/1OuGb1T5GHBF-WpR78AiONP8lijNcDFsbhWEB6-rmFR8/template/preview?usp=sharing)
+
+### What you will need
+
+To get started, select a resume template. You may choose from a resume template below, search the internet for a template that suits your style, or update your existing resume.
