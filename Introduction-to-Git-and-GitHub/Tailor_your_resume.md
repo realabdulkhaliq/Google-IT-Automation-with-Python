@@ -145,3 +145,11 @@ To use a preselected template for this activity, click the links below to choose
 - Google Doc format
 
 [Resume Template 2](https://docs.google.com/document/d/1-xDL-9tB5NBwd7JhoS5Ow8kFnTqVtO7dNqTY2CcFMLc/template/preview?usp=sharing)
+
+- Google Doc format
+
+OR
+
+If you don’t have a Google account, download the templates directly from the attachments below - Microsoft Word format:
+
+[Resume Template 1 \[attached as an MS Word file\]](https://docs.google.com/document/d/1jwUBX3MdOBUYBFgHp3FVH9KH0D4dlyfE/template/preview?usp=sharing&ouid=113718681797269932550&rtpof=true&sd=true)
