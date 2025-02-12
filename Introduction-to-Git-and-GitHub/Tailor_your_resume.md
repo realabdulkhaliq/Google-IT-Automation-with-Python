@@ -155,3 +155,22 @@ If you don’t have a Google account, download the templates directly from the a
 [Resume Template 1 \[attached as an MS Word file\]](https://docs.google.com/document/d/1jwUBX3MdOBUYBFgHp3FVH9KH0D4dlyfE/template/preview?usp=sharing&ouid=113718681797269932550&rtpof=true&sd=true)
 
 [Resume Template 2 \[attached as an MS Word file\]](https://docs.google.com/document/d/1_n6W-0rkY4QAl5xvpgE8rhgoB88_lZU-/template/preview?usp=sharing&ouid=113718681797269932550&rtpof=true&sd=true)
+
+What skills to add
+The skills section on your resume likely has room for only 2-4 lines or bullet points, so be sure to use this space effectively. You might want to avoid listing soft skills or non-technical skills here. Instead, this is a great chance for you to highlight some of the skills you’ve picked up in these courses, such as:
+
+Python Coding
+
+Object-Oriented Programming (OOP)
+
+Automation scripting
+
+Bash Scripting
+
+Git and GitHub
+
+Cloud computing with Google Cloud
+
+Puppet configuration management
+
+Advanced troubleshooting and debugging
