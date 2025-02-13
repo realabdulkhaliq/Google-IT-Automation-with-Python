@@ -194,3 +194,7 @@ Phrase your work experience and duties using Problem-Action-Result (PAR) stateme
 For example, instead of saying “Fixed Python code,” phrase it as “Saved the company over $50,000 in a weekend by fixing an error in a Python script.”
 
 Use examples that highlight transferable skills or those skills that can transfer from one job or industry to another.
+
+This is especially important if you are transitioning from another industry into the tech field.
+
+For example, troubleshooting is a skill often used in job descriptions for Automation Engineers. So, highlight examples from your work experience that demonstrate your ability to identify and fix problems.
