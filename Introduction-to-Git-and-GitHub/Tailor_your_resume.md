@@ -188,3 +188,5 @@ Focus on your accomplishments first, and explain them using the formula “Accom
 These statements help you communicate the most important things a recruiter or hiring manager is searching for — the impact of your work.
 
 Whenever possible, use numbers to explain your accomplishments. For example, “a 15% increase in productivity,” is better than “an increase in productivity.”
+
+Phrase your work experience and duties using Problem-Action-Result (PAR) statements.
