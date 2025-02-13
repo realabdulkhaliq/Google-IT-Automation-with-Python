@@ -178,3 +178,5 @@ Advanced troubleshooting and debugging
 ### Add your work experience to your resume
 
 One of the most important functions of a resume is communicating your prior work experience to the reader in a favorable light. This can often be challenging, as the one-page format forces job seekers to summarize all of their work experience into a few bullet points. This can make it hard to know what should be included and what should be left off.
+
+The practices below will help you to select and communicate the highlights of your work experience in the shortest, most impactful way possible.
