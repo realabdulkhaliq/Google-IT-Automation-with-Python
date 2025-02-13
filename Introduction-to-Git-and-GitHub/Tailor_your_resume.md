@@ -180,3 +180,7 @@ Advanced troubleshooting and debugging
 One of the most important functions of a resume is communicating your prior work experience to the reader in a favorable light. This can often be challenging, as the one-page format forces job seekers to summarize all of their work experience into a few bullet points. This can make it hard to know what should be included and what should be left off.
 
 The practices below will help you to select and communicate the highlights of your work experience in the shortest, most impactful way possible.
+
+As you think about how to represent your work experience on your resume effectively, remember the best practices you’ve learned:
+
+Focus on your accomplishments first, and explain them using the formula “Accomplished X, as measured by Y, by doing Z.”
