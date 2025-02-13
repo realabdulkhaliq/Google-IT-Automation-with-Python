@@ -190,3 +190,5 @@ These statements help you communicate the most important things a recruiter or h
 Whenever possible, use numbers to explain your accomplishments. For example, “a 15% increase in productivity,” is better than “an increase in productivity.”
 
 Phrase your work experience and duties using Problem-Action-Result (PAR) statements.
+
+For example, instead of saying “Fixed Python code,” phrase it as “Saved the company over $50,000 in a weekend by fixing an error in a Python script.”
