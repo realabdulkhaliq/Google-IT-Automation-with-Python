@@ -192,3 +192,5 @@ Whenever possible, use numbers to explain your accomplishments. For example, “
 Phrase your work experience and duties using Problem-Action-Result (PAR) statements.
 
 For example, instead of saying “Fixed Python code,” phrase it as “Saved the company over $50,000 in a weekend by fixing an error in a Python script.”
+
+Use examples that highlight transferable skills or those skills that can transfer from one job or industry to another.
