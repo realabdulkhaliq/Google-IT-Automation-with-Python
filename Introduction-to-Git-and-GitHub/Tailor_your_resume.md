@@ -184,3 +184,5 @@ The practices below will help you to select and communicate the highlights of yo
 As you think about how to represent your work experience on your resume effectively, remember the best practices you’ve learned:
 
 Focus on your accomplishments first, and explain them using the formula “Accomplished X, as measured by Y, by doing Z.”
+
+These statements help you communicate the most important things a recruiter or hiring manager is searching for — the impact of your work.
