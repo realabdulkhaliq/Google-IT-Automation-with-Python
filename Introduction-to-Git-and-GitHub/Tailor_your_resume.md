@@ -202,3 +202,11 @@ For example, troubleshooting is a skill often used in job descriptions for Autom
 The job experience section is the right place to list your soft skills.
 
 These are non-technical traits and behaviors that relate to how you work.
+
+Are you detail-oriented? Do you have grit and perseverance? Are you a strong critical thinker? Do you have leadership skills?
+
+Give an example of how you demonstrated leadership skills on the job.
+
+Providing a specific example is more effective than simply claiming to have a skill.
+
+[Work Experience Resume Example](https://docs.google.com/document/d/1zDrQ6Qnyd5RiK1HDprutBsNbY7Sc1jQkHXXCgGqfgqg/template/preview?usp=sharing)
