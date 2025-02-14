@@ -198,3 +198,7 @@ Use examples that highlight transferable skills or those skills that can transfe
 This is especially important if you are transitioning from another industry into the tech field.
 
 For example, troubleshooting is a skill often used in job descriptions for Automation Engineers. So, highlight examples from your work experience that demonstrate your ability to identify and fix problems.
+
+The job experience section is the right place to list your soft skills.
+
+These are non-technical traits and behaviors that relate to how you work.
