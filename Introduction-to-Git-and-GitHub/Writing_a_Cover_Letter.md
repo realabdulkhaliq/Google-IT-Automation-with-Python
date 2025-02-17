@@ -9,3 +9,13 @@ Networking—Addressed to individuals to ask for their help in finding a job at 
 Prospecting—Addressed to companies to explore all open job opportunities
 
 Application—Addressed to hiring managers to emphasize your fit for a specific job
+
+This reading focuses on helping you write application cover letters. Employers have “who, what, where, when, why, and how” types of questions when they gather information about job applicants.
+
+Your resume answers:
+
+what you have done
+
+where you worked
+
+when you were employed.
