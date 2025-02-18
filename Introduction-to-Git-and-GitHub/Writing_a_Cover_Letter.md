@@ -27,3 +27,6 @@ who you are
 why you want the job
 
 how you will be successful in the role
+
+Preparing to write a cover letter
+Pro tip: Not all job applications require a cover letter. When a cover letter is stated as being optional, it’s best to consider how much a cover letter might improve your standing.
