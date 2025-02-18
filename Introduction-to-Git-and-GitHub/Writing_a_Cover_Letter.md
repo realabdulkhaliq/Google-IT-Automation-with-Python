@@ -30,3 +30,13 @@ how you will be successful in the role
 
 Preparing to write a cover letter
 Pro tip: Not all job applications require a cover letter. When a cover letter is stated as being optional, it’s best to consider how much a cover letter might improve your standing.
+
+The following are common situations when people prefer to include a cover letter:
+
+When starting out in a career (early career applicant)
+
+When making a career transition
+
+When experience, education, or training isn’t an exact match with the listed requirements
+
+When entering a crowded field of applicants
