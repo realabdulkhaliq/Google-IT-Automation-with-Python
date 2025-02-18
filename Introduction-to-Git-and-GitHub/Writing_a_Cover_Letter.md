@@ -19,3 +19,11 @@ what you have done
 where you worked
 
 when you were employed.
+
+Your application cover letter describes in more detail:
+
+who you are
+
+why you want the job
+
+how you will be successful in the role
