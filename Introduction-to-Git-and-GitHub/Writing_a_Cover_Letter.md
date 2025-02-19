@@ -40,3 +40,5 @@ When making a career transition
 When experience, education, or training isn’t an exact match with the listed requirements
 
 When entering a crowded field of applicants
+
+Many people agree that no cover letter is better than a poorly written one! Even if a cover letter has no obvious errors, submitting a few paragraphs with very general statements isn’t going to help you that much. Before you write a cover letter, follow these steps to ensure you create a meaningful one.
