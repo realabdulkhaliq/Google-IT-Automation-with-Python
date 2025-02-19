@@ -55,3 +55,6 @@ Perform a search on the company’s financial standing and investors, if applica
 Perform a search on the company’s known competitors
 
 Ask your relatives, friends, and colleagues what they know about the company
+
+Step 2: Inventory the required skills from the job description
+Read the job description carefully and determine what you think are the most important skills for an applicant to have and why.
