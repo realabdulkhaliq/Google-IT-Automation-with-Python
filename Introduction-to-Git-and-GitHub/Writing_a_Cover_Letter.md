@@ -42,3 +42,16 @@ When experience, education, or training isn’t an exact match with the listed r
 When entering a crowded field of applicants
 
 Many people agree that no cover letter is better than a poorly written one! Even if a cover letter has no obvious errors, submitting a few paragraphs with very general statements isn’t going to help you that much. Before you write a cover letter, follow these steps to ensure you create a meaningful one.
+
+Step 1: Research the company or organization
+You can find out a lot about a company from these methods:
+
+Browse the company’s website
+
+Follow the company on social media including LinkedIn
+
+Perform a search on the company’s financial standing and investors, if applicable
+
+Perform a search on the company’s known competitors
+
+Ask your relatives, friends, and colleagues what they know about the company
