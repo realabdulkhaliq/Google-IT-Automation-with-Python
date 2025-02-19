@@ -58,3 +58,6 @@ Ask your relatives, friends, and colleagues what they know about the company
 
 Step 2: Inventory the required skills from the job description
 Read the job description carefully and determine what you think are the most important skills for an applicant to have and why.
+
+Step 3: Prioritize your matching skills from strongest to weakest
+Based on the skills you identified in the previous step, identify your skills that match or are most closely aligned (associated) with them. Next, prioritize your matching skills from the strongest to the weakest. People often skip this ordering process. Ranking your skills enables you to emphasize your strongest skills first in your cover letter.
