@@ -75,3 +75,5 @@ Identify the position you’re applying for
 Show your enthusiasm for the company
 
 Encourage people on the hiring team to learn more about you
+
+Example I’m applying for the Python Developer position, and can’t imagine a more exciting role. As a frequent and avid user of your services, I’m eager to pursue this career opportunity.
