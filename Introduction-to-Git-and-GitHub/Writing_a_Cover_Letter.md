@@ -100,3 +100,6 @@ Pro tip: Focus on what you can do for the company rather than on how you would b
 I would like to develop automation solutions to keep your company’s IT structure solid and provide efficiency to the company’s IT systems (company-focused; what you will do for the company).
 
 I would like to grow my Python skills by developing cloud automation solutions for efficient virtual machine management (self-focused; what you would like to gain by being in the role).
+
+Closing  
+The goal of the closing section of a cover letter is to restate your interest in the company and position. It is also used to indicate your expectations, such as scheduling an interview, being considered for other jobs, or a timeframe for follow up.
