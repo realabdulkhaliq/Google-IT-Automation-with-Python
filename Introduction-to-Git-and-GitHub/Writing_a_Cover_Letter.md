@@ -92,3 +92,5 @@ The following example shows how you can map your experiences to these qualificat
 Example
 
 I completed the Google \_\_\_\_ Professional certificate and have previous customer service experience in retail electronics. I was responsible for helping customers choose the right devices for their needs, and solve any problems they had with those devices. I also helped keep the onsite computers healthy by identifying and solving any technical problems. With my attention to detail, I can help your IT team solve problems quickly and efficiently.
+
+Pro tip: Avoid the temptation to rehash the content of your resume. A warning sign is if your cover letter has essentially the same information as your resume but in a paragraph format.
