@@ -77,3 +77,12 @@ Show your enthusiasm for the company
 Encourage people on the hiring team to learn more about you
 
 Example I’m applying for the Python Developer position, and can’t imagine a more exciting role. As a frequent and avid user of your services, I’m eager to pursue this career opportunity.
+
+Body Section
+The goal of the body section of a cover letter is to describe how your skills apply to the open position. Suppose the job description has these qualifications:
+
+Experience with Python scripting
+
+At least 1 year of IT troubleshooting experience
+
+Critical thinking skills with ability to solve complex problems
