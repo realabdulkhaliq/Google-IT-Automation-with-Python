@@ -64,3 +64,5 @@ Based on the skills you identified in the previous step, identify your skills th
 
 Parts of a cover letter
 Pro tip: A cover letter is between 250-400 words in length and doesn’t exceed one page.
+
+Review the goals for each section of a cover letter below.
