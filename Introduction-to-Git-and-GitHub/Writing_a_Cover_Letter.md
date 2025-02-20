@@ -61,3 +61,6 @@ Read the job description carefully and determine what you think are the most imp
 
 Step 3: Prioritize your matching skills from strongest to weakest
 Based on the skills you identified in the previous step, identify your skills that match or are most closely aligned (associated) with them. Next, prioritize your matching skills from the strongest to the weakest. People often skip this ordering process. Ranking your skills enables you to emphasize your strongest skills first in your cover letter.
+
+Parts of a cover letter
+Pro tip: A cover letter is between 250-400 words in length and doesn’t exceed one page.
