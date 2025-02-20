@@ -98,3 +98,5 @@ Pro tip: Avoid the temptation to rehash the content of your resume. A warning si
 Pro tip: Focus on what you can do for the company rather than on how you would benefit from being hired for that position. The difference between being company-focused and self-focused can be subtle, as in the following sentences:
 
 I would like to develop automation solutions to keep your company’s IT structure solid and provide efficiency to the company’s IT systems (company-focused; what you will do for the company).
+
+I would like to grow my Python skills by developing cloud automation solutions for efficient virtual machine management (self-focused; what you would like to gain by being in the role).
