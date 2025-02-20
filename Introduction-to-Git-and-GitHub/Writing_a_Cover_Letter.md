@@ -96,3 +96,5 @@ I completed the Google \_\_\_\_ Professional certificate and have previous custo
 Pro tip: Avoid the temptation to rehash the content of your resume. A warning sign is if your cover letter has essentially the same information as your resume but in a paragraph format.
 
 Pro tip: Focus on what you can do for the company rather than on how you would benefit from being hired for that position. The difference between being company-focused and self-focused can be subtle, as in the following sentences:
+
+I would like to develop automation solutions to keep your company’s IT structure solid and provide efficiency to the company’s IT systems (company-focused; what you will do for the company).
