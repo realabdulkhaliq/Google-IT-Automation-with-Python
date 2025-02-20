@@ -66,3 +66,12 @@ Parts of a cover letter
 Pro tip: A cover letter is between 250-400 words in length and doesn’t exceed one page.
 
 Review the goals for each section of a cover letter below.
+
+Introduction
+The primary goals of the introduction section of a cover letter are to:
+
+Identify the position you’re applying for
+
+Show your enthusiasm for the company
+
+Encourage people on the hiring team to learn more about you
