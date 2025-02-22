@@ -107,3 +107,6 @@ The goal of the closing section of a cover letter is to restate your interest in
 Example
 
 Thank you for taking the time to review my resume for this position. I’m confident I can excel in this role using my combined work experience and skills from the Google \_\_\_\_ Professional Certificate. I’m looking forward to an interview and request the privilege to follow up on my application’s progress in the coming weeks.
+
+Proofread your cover letter
+Many errors in cover letters are caused by copying and pasting text from one cover letter to another. After you write your cover letter, proofread it carefully to catch these common things:
