@@ -112,3 +112,5 @@ Proofread your cover letter
 Many errors in cover letters are caused by copying and pasting text from one cover letter to another. After you write your cover letter, proofread it carefully to catch these common things:
 
 Awkward formality—Few people call people Sir or Madam nowadays, so you shouldn’t use these in your cover letter either. Also refrain from using “To whom it may concern” which sounds highly impersonal. If you don’t know the name of the hiring manager, use “Dear Hiring Team.” Likewise, consider using “Best regards” instead of “Sincerely” which sounds a little outdated.
+
+Misspelled words (especially those that sound the same but are spelled differently). For example, “affect” and “effect,” “then” and “than,” and “your” and “you’re.”
