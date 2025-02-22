@@ -103,3 +103,7 @@ I would like to grow my Python skills by developing cloud automation solutions f
 
 Closing  
 The goal of the closing section of a cover letter is to restate your interest in the company and position. It is also used to indicate your expectations, such as scheduling an interview, being considered for other jobs, or a timeframe for follow up.
+
+Example
+
+Thank you for taking the time to review my resume for this position. I’m confident I can excel in this role using my combined work experience and skills from the Google \_\_\_\_ Professional Certificate. I’m looking forward to an interview and request the privilege to follow up on my application’s progress in the coming weeks.
