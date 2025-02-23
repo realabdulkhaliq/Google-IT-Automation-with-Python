@@ -116,3 +116,5 @@ Awkward formality—Few people call people Sir or Madam nowadays, so you shouldn
 Misspelled words (especially those that sound the same but are spelled differently). For example, “affect” and “effect,” “then” and “than,” and “your” and “you’re.”
 
 Mismatched skills—Make sure you aren’t incorporating skills for the wrong job description in your cover letter. This happens with copying and pasting.
+
+Passive voice—Use active voice whenever possible: “I revised the ads” instead of passive voice: “I ensured that the ads were revised.”
