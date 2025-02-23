@@ -118,3 +118,5 @@ Misspelled words (especially those that sound the same but are spelled different
 Mismatched skills—Make sure you aren’t incorporating skills for the wrong job description in your cover letter. This happens with copying and pasting.
 
 Passive voice—Use active voice whenever possible: “I revised the ads” instead of passive voice: “I ensured that the ads were revised.”
+
+Long anecdotes—Save stories that describe any past results you achieved for when you are being interviewed.
