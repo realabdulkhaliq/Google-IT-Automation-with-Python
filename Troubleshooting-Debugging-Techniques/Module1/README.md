@@ -7,3 +7,5 @@ Bisecting: Dividing in two, also a Git command
 Debuggers: Tools that follow the code line by line, inspect changes in variable assignments, interrupt the program when a specific condition is met, and more
 
 Linear search: The process of searching each line of data until the desired data entry is located
+
+Observer effect: The idea that observing a phenomenon alters the phenomenon
