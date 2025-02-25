@@ -11,3 +11,5 @@ Linear search: The process of searching each line of data until the desired data
 Observer effect: The idea that observing a phenomenon alters the phenomenon
 
 System calls: The calls that the programs running on our computer make to the running kernel
+
+Troubleshooting: The process of solving any kind of problem in the system running the application
