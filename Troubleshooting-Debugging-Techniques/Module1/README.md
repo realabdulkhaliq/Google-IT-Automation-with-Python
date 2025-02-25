@@ -9,3 +9,5 @@ Debuggers: Tools that follow the code line by line, inspect changes in variable 
 Linear search: The process of searching each line of data until the desired data entry is located
 
 Observer effect: The idea that observing a phenomenon alters the phenomenon
+
+System calls: The calls that the programs running on our computer make to the running kernel
