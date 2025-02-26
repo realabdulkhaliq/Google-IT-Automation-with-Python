@@ -7,3 +7,7 @@ Windows Process Monitor, also known as Sysinternals, is a powerful monitoring to
 ## Linux performance
 
 To enhance your Linux system's performance, you can use specialized tools that offer real-time insights into CPU, memory, disk I/O, and network activity for quick performance bottleneck detection. Some of these tools include Perf-tools, bcc/BPF, and bpftrace.
+
+### The USE method
+
+The USE Method is essential for optimizing system performance and troubleshooting servers. It helps identify resource bottlenecks and performance issues by analyzing Utilization, Saturation, and Errors. Resources like CPUs, memory, storage, and network interfaces can be measured for busy time, additional workload capacity, and errors.
