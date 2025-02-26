@@ -11,3 +11,7 @@ To enhance your Linux system's performance, you can use specialized tools that o
 ### The USE method
 
 The USE Method is essential for optimizing system performance and troubleshooting servers. It helps identify resource bottlenecks and performance issues by analyzing Utilization, Saturation, and Errors. Resources like CPUs, memory, storage, and network interfaces can be measured for busy time, additional workload capacity, and errors.
+
+## macOS Activity Monitor
+
+Activity Monitor in macOS allows you to monitor and manage system performance easily. You can optimize Mac performance with Activity Monitor's insights into process activity, resource usage, and energy consumption. Activity Monitor identifies unresponsive apps or processes, monitors energy usage, tracks overall energy impact, and displays real-time system status. It enables you to troubleshoot issues and optimize battery life, ensuring smooth and responsive operation.
