@@ -31,3 +31,7 @@ The Process Explorer v17.05 software is primarily used for file monitoring and a
 ## Caching
 
 Although a cache is not a monitoring tool, it's important not to overlook them as computing relies heavily on caches, which enhance data access speed and overall system performance. They store frequently accessed data for quick retrieval, making them essential for CPUs, SSDs, HDDs, web browsers, and web servers. Caches are smaller and faster than memory, acting as intermediate storage to optimize efficiency.
+
+## Linux autogrouping
+
+In Linux, autogrouping optimizes desktop performance during CPU-intensive workloads by grouping processes and ensuring fair CPU cycle distribution. Autogrouping tells the process scheduler component in Linux to act based on a group’s configured “nice level” instead of individual processes. However, autogrouping can interfere with traditional processes. When enabled, the ”nice” value primarily affects priority within the group, reducing the effectiveness of “nice” and ”renice” commands. Even programs setting their own nice levels may still receive a "fair" share of CPU time.
