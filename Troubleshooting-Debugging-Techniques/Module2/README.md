@@ -19,3 +19,7 @@ Activity Monitor in macOS allows you to monitor and manage system performance ea
 ## Windows Performance Monitor
 
 Performance Monitor is a versatile and customizable tool that analyzes your system's performance. By identifying and resolving hardware problems, poorly designed apps, excessive resource usage, or malware, it ensures smooth and efficient operation. Having real-time data on memory, network, disks, and processors lets you monitor key components and quickly resolve problems. You can configure counters, set data collectors, and analyze reports to optimize your system.
+
+## Windows Resource Monitor
+
+To get real-time insights into your computer's resource usage in Windows, use the Resource Monitor (resmon.exe) tool. It helps identify causes of slowdowns like hardware issues, poorly designed apps, and malware. Access it by searching for "resmon" or "Resource Monitor." Navigate between Memory, Disk, and Network sections for deeper analysis. Be cautious with CPU processes to avoid system instability.
