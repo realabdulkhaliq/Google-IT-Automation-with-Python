@@ -27,3 +27,7 @@ To get real-time insights into your computer's resource usage in Windows, use th
 ## Windows Process Explorer
 
 The Process Explorer v17.05 software is primarily used for file monitoring and analyzing processes on Windows computers. It provides detailed information about active processes, handles, and DLLs. Processes and their accounts are displayed in the top window, while handles and DLLs are displayed in the bottom window. In addition to troubleshooting DLLs, it also helps detect leaks and issues, providing valuable insights into how the system works.
+
+## Caching
+
+Although a cache is not a monitoring tool, it's important not to overlook them as computing relies heavily on caches, which enhance data access speed and overall system performance. They store frequently accessed data for quick retrieval, making them essential for CPUs, SSDs, HDDs, web browsers, and web servers. Caches are smaller and faster than memory, acting as intermediate storage to optimize efficiency.
