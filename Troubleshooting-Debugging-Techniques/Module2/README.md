@@ -15,3 +15,7 @@ The USE Method is essential for optimizing system performance and troubleshootin
 ## macOS Activity Monitor
 
 Activity Monitor in macOS allows you to monitor and manage system performance easily. You can optimize Mac performance with Activity Monitor's insights into process activity, resource usage, and energy consumption. Activity Monitor identifies unresponsive apps or processes, monitors energy usage, tracks overall energy impact, and displays real-time system status. It enables you to troubleshoot issues and optimize battery life, ensuring smooth and responsive operation.
+
+## Windows Performance Monitor
+
+Performance Monitor is a versatile and customizable tool that analyzes your system's performance. By identifying and resolving hardware problems, poorly designed apps, excessive resource usage, or malware, it ensures smooth and efficient operation. Having real-time data on memory, network, disks, and processors lets you monitor key components and quickly resolve problems. You can configure counters, set data collectors, and analyze reports to optimize your system.
