@@ -23,3 +23,7 @@ Performance Monitor is a versatile and customizable tool that analyzes your syst
 ## Windows Resource Monitor
 
 To get real-time insights into your computer's resource usage in Windows, use the Resource Monitor (resmon.exe) tool. It helps identify causes of slowdowns like hardware issues, poorly designed apps, and malware. Access it by searching for "resmon" or "Resource Monitor." Navigate between Memory, Disk, and Network sections for deeper analysis. Be cautious with CPU processes to avoid system instability.
+
+## Windows Process Explorer
+
+The Process Explorer v17.05 software is primarily used for file monitoring and analyzing processes on Windows computers. It provides detailed information about active processes, handles, and DLLs. Processes and their accounts are displayed in the top window, while handles and DLLs are displayed in the bottom window. In addition to troubleshooting DLLs, it also helps detect leaks and issues, providing valuable insights into how the system works.
