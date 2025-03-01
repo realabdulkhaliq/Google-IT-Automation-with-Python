@@ -53,3 +53,7 @@ Lists: Sequences of elements
 Memory leak: This happens when a chunk of memory that's no longer needed is not released
 
 Profiler: A tool that measures the resources the code is using to see how the memory is allocated and how the time is spent
+
+Real time: The amount of actual time that it took to execute the command
+
+Resource Monitor (or Performance Monitor): Windows OS tool that shows what's using the most CPU, memory, energy, disk, or network
