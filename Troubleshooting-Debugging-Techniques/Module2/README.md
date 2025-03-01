@@ -41,3 +41,5 @@ In Linux, autogrouping optimizes desktop performance during CPU-intensive worklo
 Activity Monitor: Mac OS tool that shows what's using the most CPU, memory, energy, disk, or network
 
 Cache: This stores data in a form that's faster to access than its original form
+
+Executor: This is the process that's in charge of distributing the work among the different workers
