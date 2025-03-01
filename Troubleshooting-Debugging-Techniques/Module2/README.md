@@ -51,3 +51,5 @@ Futures: A module provides a couple of different executors, one for using thread
 Lists: Sequences of elements
 
 Memory leak: This happens when a chunk of memory that's no longer needed is not released
+
+Profiler: A tool that measures the resources the code is using to see how the memory is allocated and how the time is spent
