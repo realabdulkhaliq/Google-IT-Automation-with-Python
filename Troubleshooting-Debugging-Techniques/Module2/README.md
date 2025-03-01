@@ -47,3 +47,7 @@ Executor: This is the process that's in charge of distributing the work among th
 Expensive actions: Actions that can take a long time to complete
 
 Futures: A module provides a couple of different executors, one for using threads and the other one for using processes
+
+Lists: Sequences of elements
+
+Memory leak: This happens when a chunk of memory that's no longer needed is not released
