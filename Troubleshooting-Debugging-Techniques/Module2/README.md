@@ -45,3 +45,5 @@ Cache: This stores data in a form that's faster to access than its original form
 Executor: This is the process that's in charge of distributing the work among the different workers
 
 Expensive actions: Actions that can take a long time to complete
+
+Futures: A module provides a couple of different executors, one for using threads and the other one for using processes
