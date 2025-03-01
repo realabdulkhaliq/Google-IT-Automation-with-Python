@@ -43,3 +43,5 @@ Activity Monitor: Mac OS tool that shows what's using the most CPU, memory, ener
 Cache: This stores data in a form that's faster to access than its original form
 
 Executor: This is the process that's in charge of distributing the work among the different workers
+
+Expensive actions: Actions that can take a long time to complete
