@@ -11,3 +11,7 @@ System logs are crucial for understanding and resolving issues across multiple o
 ### Mac System Logs
 
 Mac system logs provide insights into system operations. By using the Console app, you can capture error messages, warnings, and interactions between hardware and software. These logs are especially useful when investigating system behavior.
+
+### Linux System Logs
+
+Linux system logs offer insights into troubleshooting. They give detailed information about the Linux environment, such as errors and hardware-software interactions. Using command-line utilities, you can access these logs to identify unusual behavior patterns. These logs provide a holistic overview of system performance.
