@@ -15,3 +15,7 @@ Mac system logs provide insights into system operations. By using the Console ap
 ### Linux System Logs
 
 Linux system logs offer insights into troubleshooting. They give detailed information about the Linux environment, such as errors and hardware-software interactions. Using command-line utilities, you can access these logs to identify unusual behavior patterns. These logs provide a holistic overview of system performance.
+
+## Process Monitor
+
+Monitoring tools like Process Monitor in Windows provide real-time visibility into file system actions, registry changes, and process behavior. With features from legacy tools such as Regmon and Filemon, Process Monitor captures input/output parameters, uses non-destructive filtering, identifies root causes, and compiles comprehensive process data. This includes details such as image paths, commands, user information, and session IDs. The tool offers customizable columns, flexible filters, and scalable logging to enhance event management. Tooltips provide quick access to log files and reveal process relationships. It also records boot-time operations for comprehensive tracking, troubleshooting, malware detection, and system activity analysis.
