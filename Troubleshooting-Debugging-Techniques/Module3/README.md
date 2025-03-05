@@ -19,3 +19,7 @@ Linux system logs offer insights into troubleshooting. They give detailed inform
 ## Process Monitor
 
 Monitoring tools like Process Monitor in Windows provide real-time visibility into file system actions, registry changes, and process behavior. With features from legacy tools such as Regmon and Filemon, Process Monitor captures input/output parameters, uses non-destructive filtering, identifies root causes, and compiles comprehensive process data. This includes details such as image paths, commands, user information, and session IDs. The tool offers customizable columns, flexible filters, and scalable logging to enhance event management. Tooltips provide quick access to log files and reveal process relationships. It also records boot-time operations for comprehensive tracking, troubleshooting, malware detection, and system activity analysis.
+
+## Linux strace command
+
+You can use a Linux strace command to trace system calls and signals. It aids in debugging and diagnostics by analyzing application and process behavior. It captures system calls, pinpoints issues, optimizes code, and enhances system performance. You use strace by entering the program's name and any arguments at the command line. This tool logs detailed system call information, enabling you to analyze bottlenecks, unintended behaviors, and misconfigurations. The strace command contributes to a better understanding of OS and application interactions, ultimately leading to efficient software development and effective issue resolution.
