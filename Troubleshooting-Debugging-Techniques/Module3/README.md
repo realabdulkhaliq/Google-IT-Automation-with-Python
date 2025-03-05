@@ -31,3 +31,7 @@ Tracing system calls on Linux is useful for identifying security risks and traci
 ## Debugging with print
 
 The print statement helps you figure out what is going on with your code. You can use the print command to send messages to the screen as your program executes to help you find out how far it’s getting before it crashes. Or you can print out the value of certain variables as the program runs, which might help explain what is going wrong. If your code has a loop that doesn’t seem to be executing correctly, try adding a print statement at the top of the loop. Print out the loop invariant and any other local variables that might help you figure out what’s going on.
+
+## Debugging with assert
+
+A developer’s worst nightmare is to spend hours and hours developing and writing code for a program, and right before they deploy it, the developer discovers multiple bugs and errors. Instead of waiting until the last minute to check the correctness of your code, you should test it and check it throughout the development and writing process.
