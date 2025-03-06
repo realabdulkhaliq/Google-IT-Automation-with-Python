@@ -55,3 +55,11 @@ Gain insight: When an exception is caught, you can access its message and type, 
 Fail gracefully: Like in the example code above, instead of crashing the entire application, you can provide users with a friendly error message or take alternative actions when an exception is raised.
 
 Log errors: Combined with Python's logging module, exceptions can be logged for further analysis.
+
+### When to use try and catch debugging
+
+While try and except blocks don't "debug" in the traditional sense of stepping through code or setting breakpoints, they provide a framework to handle, understand, and ultimately resolve errors in a controlled and informed manner.
+
+That said, while "try and catch" is a widely accepted best practice for handling exceptions, it's essential to use it judiciously. Overusing it can lead to "swallowing" exceptions, where errors are caught but not adequately handled or logged, leading to silent failures.
+
+Proper exception handling involves not just catching exceptions but also taking appropriate action, whether that's logging the error, informing the user, or attempting a recovery action.
