@@ -35,3 +35,7 @@ The print statement helps you figure out what is going on with your code. You ca
 ## Debugging with assert
 
 A developer’s worst nightmare is to spend hours and hours developing and writing code for a program, and right before they deploy it, the developer discovers multiple bugs and errors. Instead of waiting until the last minute to check the correctness of your code, you should test it and check it throughout the development and writing process.
+
+### What are assertions?
+
+Assertions are logical tests that developers use as a sanity check when writing code. In Python, you use an assert statement to write these sanity checks. When you write an assert statement, it is important to write it with one thing in mind: The condition you include with the assert statement should always be true. If the condition is false, you can use this information as a main indicator that the program has a bug. If the assert statement is false, it will automatically terminate the execution of the program and will display an error message. At this point, you can correct or fix the bug before continuing to write code to ensure you don’t introduce any additional bugs.
