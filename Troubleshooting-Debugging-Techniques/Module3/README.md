@@ -43,3 +43,15 @@ Assertions are logical tests that developers use as a sanity check when writing 
 ## Try and catch debugging
 
 In Python, the “try and catch” mechanism is implemented using try and except blocks. When you anticipate that a certain segment of your code might produce an error, you enclose it within a try block. Following this block, one or more except blocks can be defined to catch specific exceptions.
+
+### Why use try and catch debugging
+
+Wrapping potentially problematic code using try and except blocks can help you debug in a number of ways:
+
+Identify problems: By wrapping potentially problematic code in a try block, you can catch and print exceptions, helping to pinpoint which sections of your code are problematic.
+
+Gain insight: When an exception is caught, you can access its message and type, providing insights into the nature of the error.
+
+Fail gracefully: Like in the example code above, instead of crashing the entire application, you can provide users with a friendly error message or take alternative actions when an exception is raised.
+
+Log errors: Combined with Python's logging module, exceptions can be logged for further analysis.
