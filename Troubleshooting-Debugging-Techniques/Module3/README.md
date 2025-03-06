@@ -39,3 +39,7 @@ A developer’s worst nightmare is to spend hours and hours developing and writi
 ### What are assertions?
 
 Assertions are logical tests that developers use as a sanity check when writing code. In Python, you use an assert statement to write these sanity checks. When you write an assert statement, it is important to write it with one thing in mind: The condition you include with the assert statement should always be true. If the condition is false, you can use this information as a main indicator that the program has a bug. If the assert statement is false, it will automatically terminate the execution of the program and will display an error message. At this point, you can correct or fix the bug before continuing to write code to ensure you don’t introduce any additional bugs.
+
+## Try and catch debugging
+
+In Python, the “try and catch” mechanism is implemented using try and except blocks. When you anticipate that a certain segment of your code might produce an error, you enclose it within a try block. Following this block, one or more except blocks can be defined to catch specific exceptions.
