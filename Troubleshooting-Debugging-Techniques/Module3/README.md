@@ -63,3 +63,9 @@ While try and except blocks don't "debug" in the traditional sense of stepping t
 That said, while "try and catch" is a widely accepted best practice for handling exceptions, it's essential to use it judiciously. Overusing it can lead to "swallowing" exceptions, where errors are caught but not adequately handled or logged, leading to silent failures.
 
 Proper exception handling involves not just catching exceptions but also taking appropriate action, whether that's logging the error, informing the user, or attempting a recovery action.
+
+## Python logging module
+
+The Python logging module is a built-in library designed to provide a flexible framework for creating log messages. Unlike the print() function, which is used for displaying output to the console, the logging module provides a way to configure and capture log messages at different severity levels.
+
+With the logging module, you can categorize error messages based on their severity using levels such as DEBUG, INFO, WARNING, ERROR, and CRITICAL. This categorization helps in filtering and prioritizing issues.
