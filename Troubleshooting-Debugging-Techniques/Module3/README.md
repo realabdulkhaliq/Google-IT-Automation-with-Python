@@ -119,3 +119,16 @@ With pdb, you can pause your program at any point, inspect the values of variabl
 ### Using pdb
 
 Stepping through code is a fundamental debugging technique that empowers developers to follow the execution flow in detail. By observing code execution step-by-step, you can pinpoint the exact location where a bug or unexpected behavior occurs. Plus, you can get a deeper understanding of how different parts of the codebase interact. This is particularly useful for bugs that don't produce immediate or obvious errors.
+
+```
+import pdb
+
+
+def add_numbers(a, b):
+    pdb.set_trace()  # This will set a breakpoint in the code
+    result = a + b
+    return result
+
+
+print(add_numbers(3, 4))
+```
