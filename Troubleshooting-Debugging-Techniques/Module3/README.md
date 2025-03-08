@@ -98,3 +98,8 @@ def user_login(username, password):
 [Python Docs: Logging Cookbook](https://docs.python.org/3/howto/logging-cookbook.html)
 
 [Python Docs: Logging facility for Python](https://docs.python.org/3/library/logging.html)
+
+## Python debugging with pdb
+
+What is pdb?
+Imagine you're developing a Python application designed to analyze vast amounts of textual data to extract sentiment scores. As the application processes data, it occasionally encounters unexpected data formats, causing it to crash. Given the volume of data and the complexity of the application, identifying the root cause of these crashes using simple print() statements is becoming increasingly challenging. This is where Python's built-in interactive debugger, pdb, comes into play.
