@@ -148,3 +148,5 @@ These real-world repositories on GitHub house such code—they are like treasure
 [Flask web application framework](https://github.com/pallets/flask)
 
 [Tornado web framework](https://github.com/tornadoweb/tornado)
+
+[Howdoi command line tool](https://github.com/gleitz/howdoi)
