@@ -113,3 +113,5 @@ Step through code
 Inspect variables
 
 Evaluate arbitrary Python expressions interactively
+
+With pdb, you can pause your program at any point, inspect the values of variables, and even change those values if needed.
