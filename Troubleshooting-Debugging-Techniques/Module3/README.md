@@ -144,3 +144,5 @@ These real-world repositories on GitHub house such code—they are like treasure
 [Minecraft](https://github.com/fogleman/Minecraft)
 
 [CherryPy web framework](https://github.com/cherrypy/cherrypy)
+
+[Flask web application framework](https://github.com/pallets/flask)
