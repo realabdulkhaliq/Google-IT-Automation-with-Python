@@ -92,3 +92,9 @@ def user_login(username, password):
     else:
         logging.info(f"Successfully logged in user: {username}")
 ```
+
+### Resources for more information
+
+[Python Docs: Logging Cookbook](https://docs.python.org/3/howto/logging-cookbook.html)
+
+[Python Docs: Logging facility for Python](https://docs.python.org/3/library/logging.html)
