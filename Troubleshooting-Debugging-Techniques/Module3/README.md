@@ -138,3 +138,5 @@ print(add_numbers(3, 4))
 ## Real-world code examples
 
 Discovering and understanding real-world Python code can be an exciting journey, especially if you're looking to enhance your programming skills. It's like peering into the inner workings of a well-built machine to understand how it functions.
+
+These real-world repositories on GitHub house such code—they are like treasure chests of knowledge waiting to be explored. Some of the invaluable resources for learning and debugging include these GitHub repositories:
