@@ -142,3 +142,5 @@ Discovering and understanding real-world Python code can be an exciting journey,
 These real-world repositories on GitHub house such code—they are like treasure chests of knowledge waiting to be explored. Some of the invaluable resources for learning and debugging include these GitHub repositories:
 
 [Minecraft](https://github.com/fogleman/Minecraft)
+
+[CherryPy web framework](https://github.com/cherrypy/cherrypy)
