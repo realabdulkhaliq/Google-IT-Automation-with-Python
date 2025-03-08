@@ -69,3 +69,26 @@ Proper exception handling involves not just catching exceptions but also taking 
 The Python logging module is a built-in library designed to provide a flexible framework for creating log messages. Unlike the print() function, which is used for displaying output to the console, the logging module provides a way to configure and capture log messages at different severity levels.
 
 With the logging module, you can categorize error messages based on their severity using levels such as DEBUG, INFO, WARNING, ERROR, and CRITICAL. This categorization helps in filtering and prioritizing issues.
+
+```
+import logging
+
+logging.warning('This is a warning message')
+logging.error('This is an error message')
+
+logging.basicConfig(level=logging.DEBUG)
+logging.debug('This is a debug message')
+
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.DEBUG)
+logging.error('This is an error with a custom format')
+
+---------------
+
+def user_login(username, password):
+    logging.info(f"Attempting to log in user: {username}")
+    # ... (some code for authentication)
+    if authentication_failed:
+        logging.error(f"Login failed for user: {username}")
+    else:
+        logging.info(f"Successfully logged in user: {username}")
+```
