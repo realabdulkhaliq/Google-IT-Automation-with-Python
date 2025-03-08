@@ -152,3 +152,5 @@ These real-world repositories on GitHub house such code—they are like treasure
 [Howdoi command line tool](https://github.com/gleitz/howdoi)
 
 [Bottle web framework](https://github.com/bottlepy/bottle/blob/master/bottle.py)
+
+[SQLAlchemy database toolkit](https://github.com/sqlalchemy/sqlalchemy)
