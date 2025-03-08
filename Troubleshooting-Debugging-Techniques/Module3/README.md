@@ -103,3 +103,13 @@ def user_login(username, password):
 
 What is pdb?
 Imagine you're developing a Python application designed to analyze vast amounts of textual data to extract sentiment scores. As the application processes data, it occasionally encounters unexpected data formats, causing it to crash. Given the volume of data and the complexity of the application, identifying the root cause of these crashes using simple print() statements is becoming increasingly challenging. This is where Python's built-in interactive debugger, pdb, comes into play.
+
+The acronym pdb stands for "Python DeBugger." It's an interactive debugger for Python programs, allowing you to:
+
+Set breakpoints
+
+Step through code
+
+Inspect variables
+
+Evaluate arbitrary Python expressions interactively
