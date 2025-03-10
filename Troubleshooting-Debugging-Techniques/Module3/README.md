@@ -154,3 +154,7 @@ These real-world repositories on GitHub house such code—they are like treasure
 [Bottle web framework](https://github.com/bottlepy/bottle/blob/master/bottle.py)
 
 [SQLAlchemy database toolkit](https://github.com/sqlalchemy/sqlalchemy)
+
+### Terms and definitions
+
+Breakpoints: Debugging features that lets code run until a certain line of code is executed
