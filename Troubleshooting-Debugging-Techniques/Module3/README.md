@@ -158,3 +158,5 @@ These real-world repositories on GitHub house such code—they are like treasure
 ### Terms and definitions
 
 Breakpoints: Debugging features that lets code run until a certain line of code is executed
+
+Communications lead: The lead person who needs to receive timely important communication updates
