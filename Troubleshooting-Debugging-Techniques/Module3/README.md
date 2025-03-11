@@ -164,3 +164,5 @@ Communications lead: The lead person who needs to receive timely important commu
 Core files: Files that store all the information related to the crash to debug the issue
 
 Incident commander (incident controller): The person who needs to look at the big picture and decide what's the best use of the available resources
+
+Pointers: The variables that store memory addresses
