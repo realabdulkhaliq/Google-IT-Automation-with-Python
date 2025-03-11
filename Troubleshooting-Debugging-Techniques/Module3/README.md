@@ -160,3 +160,5 @@ These real-world repositories on GitHub house such code—they are like treasure
 Breakpoints: Debugging features that lets code run until a certain line of code is executed
 
 Communications lead: The lead person who needs to receive timely important communication updates
+
+Core files: Files that store all the information related to the crash to debug the issue
