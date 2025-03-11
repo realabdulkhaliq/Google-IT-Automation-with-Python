@@ -168,3 +168,5 @@ Incident commander (incident controller): The person who needs to look at the bi
 Pointers: The variables that store memory addresses
 
 Postmortems: Documents that describe details of incidents to learn from mistakes
+
+Undefined behavior: The code is doing something that's not valid in that programming language
