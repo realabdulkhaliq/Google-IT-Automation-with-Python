@@ -170,3 +170,5 @@ Pointers: The variables that store memory addresses
 Postmortems: Documents that describe details of incidents to learn from mistakes
 
 Undefined behavior: The code is doing something that's not valid in that programming language
+
+Valgrind: A powerful tool that can tell if the code is doing any invalid operations, no matter if it crashes or not
