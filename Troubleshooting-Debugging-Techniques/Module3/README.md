@@ -166,3 +166,5 @@ Core files: Files that store all the information related to the crash to debug t
 Incident commander (incident controller): The person who needs to look at the big picture and decide what's the best use of the available resources
 
 Pointers: The variables that store memory addresses
+
+Postmortems: Documents that describe details of incidents to learn from mistakes
