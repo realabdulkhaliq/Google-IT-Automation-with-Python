@@ -174,3 +174,5 @@ Undefined behavior: The code is doing something that's not valid in that program
 Valgrind: A powerful tool that can tell if the code is doing any invalid operations, no matter if it crashes or not
 
 Watchdog: This is another process that checks whether a program is running and, when it's not, starts the program again
+
+Watchpoints: Debugging feature that lets code run until a variable or expression changes
