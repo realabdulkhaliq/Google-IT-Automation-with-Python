@@ -176,3 +176,5 @@ Valgrind: A powerful tool that can tell if the code is doing any invalid operati
 Watchdog: This is another process that checks whether a program is running and, when it's not, starts the program again
 
 Watchpoints: Debugging feature that lets code run until a variable or expression changes
+
+Wrapper: A function or program that provides a compatibility layer between two functions or programs, so that they can work well together
