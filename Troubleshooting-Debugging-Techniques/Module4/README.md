@@ -15,3 +15,7 @@ You may not want to use Docker when:
 You’re planning to use Kubernetes, which now prefers new container engines like containerd, or
 
 You are running a huge, monolithic legacy application written in something like Java.
+
+## Terms and definitions
+
+Bandwidth: How much data can be sent or received in a second
