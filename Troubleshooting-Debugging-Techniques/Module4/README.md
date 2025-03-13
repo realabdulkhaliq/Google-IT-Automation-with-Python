@@ -19,3 +19,5 @@ You are running a huge, monolithic legacy application written in something like 
 ## Terms and definitions
 
 Bandwidth: How much data can be sent or received in a second
+
+Centralized logs collection: This means there's a special server that gathers all the logs from all the servers, or even all computers in the network
