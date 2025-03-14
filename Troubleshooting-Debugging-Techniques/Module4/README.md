@@ -23,3 +23,5 @@ Bandwidth: How much data can be sent or received in a second
 Centralized logs collection: This means there's a special server that gathers all the logs from all the servers, or even all computers in the network
 
 Decorator: Used in Python to add extra behavior to functions without having to modify the code
+
+Exhausted: When resources are used completely and programs are getting blocked by not having more access to those resources
