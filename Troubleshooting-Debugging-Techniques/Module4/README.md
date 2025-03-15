@@ -31,3 +31,5 @@ Garbage collector: A tool in charge of freeing the memory that's no longer in us
 Latency: The delay between sending a byte of data from one point and receiving it on the other
 
 Memory profiler: A tool used to figure out how the memory is being used
+
+Reproduction case: A clear description of how and when the problem appears, a way to verify if the problem is present or not
