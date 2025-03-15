@@ -29,3 +29,5 @@ Exhausted: When resources are used completely and programs are getting blocked b
 Garbage collector: A tool in charge of freeing the memory that's no longer in use
 
 Latency: The delay between sending a byte of data from one point and receiving it on the other
+
+Memory profiler: A tool used to figure out how the memory is being used
