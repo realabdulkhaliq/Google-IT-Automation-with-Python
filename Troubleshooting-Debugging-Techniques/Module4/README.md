@@ -35,3 +35,5 @@ Memory profiler: A tool used to figure out how the memory is being used
 Reproduction case: A clear description of how and when the problem appears, a way to verify if the problem is present or not
 
 Swap: A space in the hard drive where the operating system puts the parts of the memory that aren't currently in use
+
+Technical debt: The pending work that accumulates when a quick-and-easy solution is applied instead of a sustainable long-term one
