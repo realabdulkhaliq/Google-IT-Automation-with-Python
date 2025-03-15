@@ -37,3 +37,5 @@ Reproduction case: A clear description of how and when the problem appears, a wa
 Swap: A space in the hard drive where the operating system puts the parts of the memory that aren't currently in use
 
 Technical debt: The pending work that accumulates when a quick-and-easy solution is applied instead of a sustainable long-term one
+
+Traffic shaping: This is a way of marking the data packets sent over the network with different priorities, to avoid having huge chunks of data use all of the bandwidth
