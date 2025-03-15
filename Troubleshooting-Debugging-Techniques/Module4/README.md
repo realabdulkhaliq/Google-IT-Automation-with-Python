@@ -33,3 +33,5 @@ Latency: The delay between sending a byte of data from one point and receiving i
 Memory profiler: A tool used to figure out how the memory is being used
 
 Reproduction case: A clear description of how and when the problem appears, a way to verify if the problem is present or not
+
+Swap: A space in the hard drive where the operating system puts the parts of the memory that aren't currently in use
