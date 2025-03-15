@@ -25,3 +25,5 @@ Centralized logs collection: This means there's a special server that gathers al
 Decorator: Used in Python to add extra behavior to functions without having to modify the code
 
 Exhausted: When resources are used completely and programs are getting blocked by not having more access to those resources
+
+Garbage collector: A tool in charge of freeing the memory that's no longer in use
