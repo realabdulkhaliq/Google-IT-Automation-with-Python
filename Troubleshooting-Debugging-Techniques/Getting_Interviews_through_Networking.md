@@ -9,3 +9,7 @@ Strategic networking can help you overcome some of the challenges associated wit
 Getting accurate information about job availability. The fact that a role is posted online doesn’t mean that the hiring team is actively reviewing applications. There is often a delay between the time a role is open and the time it’s posted online, as well as the time it is filled and taken down from online job boards. At the same time, there are often open positions that are not (yet) posted online for a variety of reasons. Networking can help you ensure you’ve got up-to-date information.
 
 Learning more details about the role. Job descriptions are not always precise. As a result, you might end up applying for roles that you think are a good fit but are, in fact, not. Or, you might fail to properly tailor your application to meet the needs of the hiring team. Insider information via networking can help you understand what the team is really looking for.
+
+Standing out amid the competition. Once a job is posted to a job board, there are often tens or even hundreds of people applying to it. It can be difficult to stand out. Networking can help you get an early jump on a new opportunity before it’s posted.
+
+The networking process described in this guide can help you address all these challenges.
