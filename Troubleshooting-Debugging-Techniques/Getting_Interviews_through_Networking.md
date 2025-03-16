@@ -13,3 +13,13 @@ Learning more details about the role. Job descriptions are not always precise. A
 Standing out amid the competition. Once a job is posted to a job board, there are often tens or even hundreds of people applying to it. It can be difficult to stand out. Networking can help you get an early jump on a new opportunity before it’s posted.
 
 The networking process described in this guide can help you address all these challenges.
+
+Through a short and focused conversation with someone at your target company, who has insider knowledge of relevant opportunities, you will be able to:
+
+Understand the requirements for your target role at that specific company. Jobs with the same title can vary greatly from company to company, and the actual requirements are not always obvious from job descriptions.
+
+Gain insight into the company’s organizational structure and team culture to learn what’s required for success, and understand how best to position yourself in your application materials and interviews.
+
+Learn about ways to monitor and apply for opportunities at that specific company, so you can know exactly what’s available and how to float your application to the top of the pile. You might even be able to get a referral.
+
+Establish a relationship with a professional who might be able to help you in your current job search and be a part of your professional network moving forward.
