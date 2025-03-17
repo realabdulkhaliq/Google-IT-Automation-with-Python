@@ -37,3 +37,9 @@ If you are already connected to the right people, you can jump straight to Step 
 ### Step 1: Finding the right people
 
 To begin, put together a list of the companies you’re interested in. The more companies you have on your list, the more people you will be able to reach out to, and the more opportunities that will be available to you. Don’t be surprised if your company list grows to 50 or more companies. It might sound like a lot, but remember that not every company will have the right role available when you need it.
+
+If you are not sure how to identify target companies for your job search, consider the following ideas:
+
+Search job boards for openings. If a company has ever posted a relevant role, it’s worth exploring further.
+
+Go through your existing contacts and research the companies where they work. Even if you don’t know anyone in your target role, your personal and professional contacts might be able to introduce you to their relevant coworkers.
