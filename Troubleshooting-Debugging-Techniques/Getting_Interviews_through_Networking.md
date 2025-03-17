@@ -29,3 +29,7 @@ Establish a relationship with a professional who might be able to help you in yo
 How to connect with the right people
 
 The process of networking for your job search begins with identifying the right people to network with. You are looking for insider information on the role and its application process, as well as other relevant opportunities.
+
+People you select to network with should work in, or close to, your target role at a company you are interested in working for. These people will have the information you need, beyond what’s publicly posted online. They will likely understand the exact skills and qualities the hiring team is looking for. They may know the status of currently open roles and upcoming openings, and they might even be able to connect you directly to the hiring team.
+
+If you are already connected to the right people, you can jump straight to Step 2 below. If you don’t currently know such people, begin with finding and connecting with them as described in Step 1.
