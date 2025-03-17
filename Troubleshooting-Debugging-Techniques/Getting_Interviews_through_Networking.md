@@ -23,3 +23,9 @@ Gain insight into the company’s organizational structure and team culture to l
 Learn about ways to monitor and apply for opportunities at that specific company, so you can know exactly what’s available and how to float your application to the top of the pile. You might even be able to get a referral.
 
 Establish a relationship with a professional who might be able to help you in your current job search and be a part of your professional network moving forward.
+
+## Networking for Your Job Search: The Process
+
+How to connect with the right people
+
+The process of networking for your job search begins with identifying the right people to network with. You are looking for insider information on the role and its application process, as well as other relevant opportunities.
