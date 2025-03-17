@@ -43,3 +43,9 @@ If you are not sure how to identify target companies for your job search, consid
 Search job boards for openings. If a company has ever posted a relevant role, it’s worth exploring further.
 
 Go through your existing contacts and research the companies where they work. Even if you don’t know anyone in your target role, your personal and professional contacts might be able to introduce you to their relevant coworkers.
+
+Identify a target industry (e.g., education, technical, finance). If you know one company within that industry, you can perform a search for its competitors to expand your list.
+
+Map out companies located in your area (or companies with a remote workforce, if you are looking to work remotely). You want to make sure you can definitely be considered for any opportunity you uncover.
+
+Remember, your target companies do not need to have open jobs posted—you will find out exactly what is currently available there through your networking conversations.
