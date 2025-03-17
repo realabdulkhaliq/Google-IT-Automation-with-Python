@@ -33,3 +33,7 @@ The process of networking for your job search begins with identifying the right 
 People you select to network with should work in, or close to, your target role at a company you are interested in working for. These people will have the information you need, beyond what’s publicly posted online. They will likely understand the exact skills and qualities the hiring team is looking for. They may know the status of currently open roles and upcoming openings, and they might even be able to connect you directly to the hiring team.
 
 If you are already connected to the right people, you can jump straight to Step 2 below. If you don’t currently know such people, begin with finding and connecting with them as described in Step 1.
+
+### Step 1: Finding the right people
+
+To begin, put together a list of the companies you’re interested in. The more companies you have on your list, the more people you will be able to reach out to, and the more opportunities that will be available to you. Don’t be surprised if your company list grows to 50 or more companies. It might sound like a lot, but remember that not every company will have the right role available when you need it.
