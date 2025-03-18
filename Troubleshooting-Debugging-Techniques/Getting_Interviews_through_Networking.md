@@ -55,3 +55,5 @@ Remember, your target companies do not need to have open jobs posted—you will 
 Once you know the companies you are interested in, you can start connecting with relevant people. The method described here uses LinkedIn because it is accessible to most people. You can also ask for introductions from mutual connections, attend professional events to meet people, post in networking communities online, or use any other way you prefer.
 
 To find people through LinkedIn, begin with performing a LinkedIn People Search using your target job title as the search string, and setting a filter for “Current Companies.” See below for an example searching for a Data Analyst at Coursera.
+
+Review the profiles that come up to identify people you want to reach out to. Focus on people you’d like to learn from and that you think you can build a rapport with based on their background, interests, and even their tone of communication. Keep in mind that people with well-developed LinkedIn profiles—that include profile photos, summaries, and other details—are more likely to reply to you than those who have very basic profiles, because they are likely to be more active LinkedIn users.
