@@ -59,3 +59,9 @@ To find people through LinkedIn, begin with performing a LinkedIn People Search 
 Review the profiles that come up to identify people you want to reach out to. Focus on people you’d like to learn from and that you think you can build a rapport with based on their background, interests, and even their tone of communication. Keep in mind that people with well-developed LinkedIn profiles—that include profile photos, summaries, and other details—are more likely to reply to you than those who have very basic profiles, because they are likely to be more active LinkedIn users.
 
 Once you identify a person you might be interested in speaking to, send them a connection request with a note explaining why you are reaching out.
+
+#### Sample LinkedIn outreach message:
+
+Hi <name>, I discovered your profile because of the interesting work you do as a <role> at <company>. I’d appreciate an opportunity to ask you a few questions to learn more about what you do and what it is like to work at <company>. Thank you in advance for connecting with me!
+
+Note that some of your connection requests may go unanswered. Don’t get discouraged or take it personally. Many people are too busy or simply don’t monitor their LinkedIn messages. The great thing is that LinkedIn provides you with access to a large number of professionals, and it’s a great idea to reach out to a lot of people.
