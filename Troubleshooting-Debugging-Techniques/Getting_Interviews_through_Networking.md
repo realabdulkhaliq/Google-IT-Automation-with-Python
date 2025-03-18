@@ -49,3 +49,7 @@ Identify a target industry (e.g., education, technical, finance). If you know on
 Map out companies located in your area (or companies with a remote workforce, if you are looking to work remotely). You want to make sure you can definitely be considered for any opportunity you uncover.
 
 Remember, your target companies do not need to have open jobs posted—you will find out exactly what is currently available there through your networking conversations.
+
+### Step 2: Connecting via LinkedIn
+
+Once you know the companies you are interested in, you can start connecting with relevant people. The method described here uses LinkedIn because it is accessible to most people. You can also ask for introductions from mutual connections, attend professional events to meet people, post in networking communities online, or use any other way you prefer.
