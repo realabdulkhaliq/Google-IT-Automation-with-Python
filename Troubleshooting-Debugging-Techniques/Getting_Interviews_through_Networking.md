@@ -77,3 +77,5 @@ Make scheduling easy by suggesting a specific time to speak, offering to work ar
 Thank you for accepting my connection request! As I mentioned, I reached out because I’m researching <industry/company> and would really appreciate an opportunity to ask you a few questions about your experience in <role, company>. Would you be open to scheduling a 15-minute video or phone call on <date, time>? I’m also happy to adjust to your schedule if you prefer another time.
 
 Note that some people find it easier to provide information in writing. If you don’t get a response to your original request for a conversation, you can follow up by asking whether it would be easier for them to answer a few questions over email. Remember, everyone is different and it’s important to gauge and adjust to the style of the person you are reaching out to!
+
+Don’t be discouraged if someone does not reply to you immediately. People are busy. Since you have already established a connection, it’s a good idea to follow up after a few days, and then again a week later to give them a chance to reply.
