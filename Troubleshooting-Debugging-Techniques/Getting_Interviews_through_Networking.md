@@ -65,3 +65,5 @@ Once you identify a person you might be interested in speaking to, send them a c
 Hi <name>, I discovered your profile because of the interesting work you do as a <role> at <company>. I’d appreciate an opportunity to ask you a few questions to learn more about what you do and what it is like to work at <company>. Thank you in advance for connecting with me!
 
 Note that some of your connection requests may go unanswered. Don’t get discouraged or take it personally. Many people are too busy or simply don’t monitor their LinkedIn messages. The great thing is that LinkedIn provides you with access to a large number of professionals, and it’s a great idea to reach out to a lot of people.
+
+### Step 3: Schedule and prepare for the conversation
