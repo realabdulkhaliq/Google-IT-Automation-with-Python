@@ -69,3 +69,5 @@ Note that some of your connection requests may go unanswered. Don’t get discou
 ### Step 3: Schedule and prepare for the conversation
 
 Once you’ve established the connection, you can ask your new contact for a time to speak. It is important to be open to communicating via the connection's preferred approach (in-person, video, phone, in writing, etc.), but ideally, you want to schedule a live conversation. It’s generally a more effective way to build a relationship, and can often make it easier to get your specific questions answered.
+
+Make scheduling easy by suggesting a specific time to speak, offering to work around their calendar, and sending out a calendar invitation with information on how you will connect (phone, video conferencing, etc.).
