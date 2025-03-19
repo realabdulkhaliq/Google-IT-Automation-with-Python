@@ -67,3 +67,5 @@ Hi <name>, I discovered your profile because of the interesting work you do as a
 Note that some of your connection requests may go unanswered. Don’t get discouraged or take it personally. Many people are too busy or simply don’t monitor their LinkedIn messages. The great thing is that LinkedIn provides you with access to a large number of professionals, and it’s a great idea to reach out to a lot of people.
 
 ### Step 3: Schedule and prepare for the conversation
+
+Once you’ve established the connection, you can ask your new contact for a time to speak. It is important to be open to communicating via the connection's preferred approach (in-person, video, phone, in writing, etc.), but ideally, you want to schedule a live conversation. It’s generally a more effective way to build a relationship, and can often make it easier to get your specific questions answered.
