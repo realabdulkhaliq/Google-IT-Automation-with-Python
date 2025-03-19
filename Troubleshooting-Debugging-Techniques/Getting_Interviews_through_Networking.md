@@ -71,3 +71,7 @@ Note that some of your connection requests may go unanswered. Don’t get discou
 Once you’ve established the connection, you can ask your new contact for a time to speak. It is important to be open to communicating via the connection's preferred approach (in-person, video, phone, in writing, etc.), but ideally, you want to schedule a live conversation. It’s generally a more effective way to build a relationship, and can often make it easier to get your specific questions answered.
 
 Make scheduling easy by suggesting a specific time to speak, offering to work around their calendar, and sending out a calendar invitation with information on how you will connect (phone, video conferencing, etc.).
+
+**Sample meeting request message:**
+
+Thank you for accepting my connection request! As I mentioned, I reached out because I’m researching <industry/company> and would really appreciate an opportunity to ask you a few questions about your experience in <role, company>. Would you be open to scheduling a 15-minute video or phone call on <date, time>? I’m also happy to adjust to your schedule if you prefer another time.
