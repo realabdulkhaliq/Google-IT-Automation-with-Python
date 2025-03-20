@@ -79,3 +79,7 @@ Thank you for accepting my connection request! As I mentioned, I reached out bec
 Note that some people find it easier to provide information in writing. If you don’t get a response to your original request for a conversation, you can follow up by asking whether it would be easier for them to answer a few questions over email. Remember, everyone is different and it’s important to gauge and adjust to the style of the person you are reaching out to!
 
 Don’t be discouraged if someone does not reply to you immediately. People are busy. Since you have already established a connection, it’s a good idea to follow up after a few days, and then again a week later to give them a chance to reply.
+
+If you still don’t hear back after a couple of follow-ups, you can assume this person is too busy at this time to speak with you and move on to other potential contacts. Remember that while this is a process of developing personal connections, it’s also a numbers game, and you should plan to reach out to a lot of people!.
+
+Before moving on, acknowledge your decision to your new contact—a quick note will help ensure there is no awkwardness so you can easily reconnect in the future.
