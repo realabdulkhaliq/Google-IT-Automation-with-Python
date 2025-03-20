@@ -83,3 +83,7 @@ Don’t be discouraged if someone does not reply to you immediately. People are 
 If you still don’t hear back after a couple of follow-ups, you can assume this person is too busy at this time to speak with you and move on to other potential contacts. Remember that while this is a process of developing personal connections, it’s also a numbers game, and you should plan to reach out to a lot of people!.
 
 Before moving on, acknowledge your decision to your new contact—a quick note will help ensure there is no awkwardness so you can easily reconnect in the future.
+
+**Sample moving-on note:**
+
+I'm sorry we haven't been able to connect. I definitely don't want to flood your inbox with requests, so I just wanted to thank you again for connecting with me, and if you do end up having some time to chat, please let me know.
