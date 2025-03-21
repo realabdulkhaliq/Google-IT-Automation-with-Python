@@ -97,3 +97,7 @@ Things you’ll want to focus on include:
 What is the day-to-day like in the role? What is the team structure, how are priorities decided, what do they like about their work, and what do they struggle with?
 
 What skills and experiences do the hiring team look for? What is essential, and what is nice-to-have?
+
+Do they think your skills and background are a good fit for the role, or are there ways you can improve your candidacy through education or experience?
+
+What is the best way to monitor and apply for opportunities? Is there anything coming up that is not yet posted on the careers page?
