@@ -87,3 +87,7 @@ Before moving on, acknowledge your decision to your new contact—a quick note w
 **Sample moving-on note:**
 
 I'm sorry we haven't been able to connect. I definitely don't want to flood your inbox with requests, so I just wanted to thank you again for connecting with me, and if you do end up having some time to chat, please let me know.
+
+#### Preparation
+
+Once the conversation is on the calendar, it’s time to prepare. Remember, your focus should be on learning about your target role at the company and determining the best ways to connect to new opportunities.
