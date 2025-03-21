@@ -91,3 +91,9 @@ I'm sorry we haven't been able to connect. I definitely don't want to flood your
 #### Preparation
 
 Once the conversation is on the calendar, it’s time to prepare. Remember, your focus should be on learning about your target role at the company and determining the best ways to connect to new opportunities.
+
+Things you’ll want to focus on include:
+
+What is the day-to-day like in the role? What is the team structure, how are priorities decided, what do they like about their work, and what do they struggle with?
+
+What skills and experiences do the hiring team look for? What is essential, and what is nice-to-have?
