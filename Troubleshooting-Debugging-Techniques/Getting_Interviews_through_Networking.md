@@ -118,3 +118,5 @@ Company website. You should have a good understanding of the company’s mission
 Company reviews on platforms such as Glassdoor. It’s a great idea to see what people are saying about the company, so you can ask more specific questions about the culture.
 
 News about the company. Just in case there is something significant happening at the company, you want to be aware of it.
+
+Company careers page. Make sure you know which roles are currently posted so that you can ask about the status, and about applying to them directly.
