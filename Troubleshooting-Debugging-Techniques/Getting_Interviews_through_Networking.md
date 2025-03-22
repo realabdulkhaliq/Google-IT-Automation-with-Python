@@ -108,3 +108,5 @@ To inform your questions, you’ll want to conduct thorough research on the pers
 Consider the following sources of information:
 
 Your contact’s LinkedIn profile, and any information it links to. Look for information to inform your questions as well as anything that can help you build rapport, such as shared volunteering interests, hobbies, school experience, etc.
+
+Job descriptions for your target role at the company (if available). During the conversation, you’ll have an opportunity to clarify requirements and responsibilities.
