@@ -104,7 +104,7 @@ What is the best way to monitor and apply for opportunities? Is there anything c
 
 Are there any other people they can recommend that you speak with?
 
-To inform your questions, you’ll want to conduct thorough research on the person you are speaking with, the company they work at, and your target role.
+_To inform your questions, you’ll want to conduct thorough research on the person you are speaking with, the company they work at, and your target role._
 Consider the following sources of information:
 
 Your contact’s LinkedIn profile, and any information it links to. Look for information to inform your questions as well as anything that can help you build rapport, such as shared volunteering interests, hobbies, school experience, etc.
