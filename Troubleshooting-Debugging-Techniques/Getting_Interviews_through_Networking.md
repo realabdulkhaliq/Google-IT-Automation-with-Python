@@ -114,3 +114,5 @@ Job descriptions for your target role at the company (if available). During the 
 LinkedIn profiles of people working in your target role at the company. You want to understand their skill sets and backgrounds to get additional insights into what it takes to succeed in this role.
 
 Company website. You should have a good understanding of the company’s mission, business, and anything else they chose to highlight to the public.
+
+Company reviews on platforms such as Glassdoor. It’s a great idea to see what people are saying about the company, so you can ask more specific questions about the culture.
