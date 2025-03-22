@@ -103,3 +103,6 @@ Do they think your skills and background are a good fit for the role, or are the
 What is the best way to monitor and apply for opportunities? Is there anything coming up that is not yet posted on the careers page?
 
 Are there any other people they can recommend that you speak with?
+
+To inform your questions, you’ll want to conduct thorough research on the person you are speaking with, the company they work at, and your target role.
+Consider the following sources of information:
