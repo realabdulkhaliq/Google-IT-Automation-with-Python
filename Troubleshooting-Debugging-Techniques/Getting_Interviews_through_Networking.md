@@ -116,3 +116,5 @@ LinkedIn profiles of people working in your target role at the company. You want
 Company website. You should have a good understanding of the company’s mission, business, and anything else they chose to highlight to the public.
 
 Company reviews on platforms such as Glassdoor. It’s a great idea to see what people are saying about the company, so you can ask more specific questions about the culture.
+
+News about the company. Just in case there is something significant happening at the company, you want to be aware of it.
