@@ -132,3 +132,5 @@ Remind them about who you are, why you reached out, and what your goals are for 
 Monitor time. Conversations like this generally last 15–30 minutes. Make sure you respect the other person’s time by keeping the meeting to the length you had originally agreed upon, unless the other person wants to continue talking.
 
 Make it about them. While you are there to learn, the person you are speaking to is being generous with their time, and it’s your responsibility to make them feel valued and appreciated. Explain why you wanted to talk to them and show the research you’ve done. Honest praise and genuine engagement go a long way.
+
+Listen more than talk. Since you are there to learn about their experience and company, the primary focus of the conversation should be on the other person. Some people might be more talkative, while others may need more input from you in order to engage. Ideally, they should be speaking for 50% to 80% of the conversation. Don’t be afraid of short pauses, and be respectful and patient if they need time to gather their thoughts.
