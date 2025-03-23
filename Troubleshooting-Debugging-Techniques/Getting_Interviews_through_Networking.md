@@ -122,3 +122,5 @@ News about the company. Just in case there is something significant happening at
 Company careers page. Make sure you know which roles are currently posted so that you can ask about the status, and about applying to them directly.
 
 ### Step 4: Speak with your new contact
+
+Speaking with strangers does not come naturally to many people. If you are feeling uncomfortable before or during your first few conversations, that’s completely normal! It will get easier with time as you develop the invaluable skill of networking.
