@@ -124,3 +124,5 @@ Company careers page. Make sure you know which roles are currently posted so tha
 ### Step 4: Speak with your new contact
 
 Speaking with strangers does not come naturally to many people. If you are feeling uncomfortable before or during your first few conversations, that’s completely normal! It will get easier with time as you develop the invaluable skill of networking.
+
+Remember that the other person is also going into a conversation with a stranger (you) and might not know what to expect. To make both of you comfortable and to help build rapport, be ready to set the structure for the conversation.
