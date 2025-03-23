@@ -120,3 +120,5 @@ Company reviews on platforms such as Glassdoor. It’s a great idea to see what 
 News about the company. Just in case there is something significant happening at the company, you want to be aware of it.
 
 Company careers page. Make sure you know which roles are currently posted so that you can ask about the status, and about applying to them directly.
+
+### Step 4: Speak with your new contact
