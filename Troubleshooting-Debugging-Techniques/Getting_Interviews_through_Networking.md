@@ -130,3 +130,5 @@ Remember that the other person is also going into a conversation with a stranger
 Remind them about who you are, why you reached out, and what your goals are for the conversation. By this point, you will have done extensive research in preparation for the conversation, but your new contact might not have had the time to look at your profile and doesn’t know why exactly you reached out. Help them out by starting with a brief overview of your background and the reasons for the conversation.
 
 Monitor time. Conversations like this generally last 15–30 minutes. Make sure you respect the other person’s time by keeping the meeting to the length you had originally agreed upon, unless the other person wants to continue talking.
+
+Make it about them. While you are there to learn, the person you are speaking to is being generous with their time, and it’s your responsibility to make them feel valued and appreciated. Explain why you wanted to talk to them and show the research you’ve done. Honest praise and genuine engagement go a long way.
