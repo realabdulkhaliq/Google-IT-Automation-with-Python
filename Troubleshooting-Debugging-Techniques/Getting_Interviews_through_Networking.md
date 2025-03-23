@@ -128,3 +128,5 @@ Speaking with strangers does not come naturally to many people. If you are feeli
 Remember that the other person is also going into a conversation with a stranger (you) and might not know what to expect. To make both of you comfortable and to help build rapport, be ready to set the structure for the conversation.
 
 Remind them about who you are, why you reached out, and what your goals are for the conversation. By this point, you will have done extensive research in preparation for the conversation, but your new contact might not have had the time to look at your profile and doesn’t know why exactly you reached out. Help them out by starting with a brief overview of your background and the reasons for the conversation.
+
+Monitor time. Conversations like this generally last 15–30 minutes. Make sure you respect the other person’s time by keeping the meeting to the length you had originally agreed upon, unless the other person wants to continue talking.
