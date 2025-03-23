@@ -126,3 +126,5 @@ Company careers page. Make sure you know which roles are currently posted so tha
 Speaking with strangers does not come naturally to many people. If you are feeling uncomfortable before or during your first few conversations, that’s completely normal! It will get easier with time as you develop the invaluable skill of networking.
 
 Remember that the other person is also going into a conversation with a stranger (you) and might not know what to expect. To make both of you comfortable and to help build rapport, be ready to set the structure for the conversation.
+
+Remind them about who you are, why you reached out, and what your goals are for the conversation. By this point, you will have done extensive research in preparation for the conversation, but your new contact might not have had the time to look at your profile and doesn’t know why exactly you reached out. Help them out by starting with a brief overview of your background and the reasons for the conversation.
