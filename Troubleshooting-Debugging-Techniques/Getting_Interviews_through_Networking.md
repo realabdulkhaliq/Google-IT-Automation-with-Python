@@ -146,3 +146,5 @@ Getting a referral is an ideal outcome for a networking conversation. However, n
 If, during the course of the conversation, you confirm that there is a role available that you are qualified for, do consider asking for a referral. You should be able to sense from the conversation whether the person thinks you could be a valuable addition to their team and therefore open to referring to you. If you have any doubts about that, provide an easy way for them to say “no” to you to avoid an awkward situation. For example, you can ask, “Would you be able to refer me to this role, or do you recommend I apply online?”
 
 If your contact agrees to refer you, make sure you understand exactly what’s required from you. Depending on the company’s system, you might need to apply through a special referral link, have your contact submit your resume internally on your behalf, or apply online and then have your contact reach out to the relevant member of the hiring team.
+
+### Step 5: Follow up
