@@ -138,3 +138,7 @@ Listen more than talk. Since you are there to learn about their experience and c
 Take note of action items as you go along. There are many action items that can come out of a conversation like this: you might need to send the other person your resume, they might offer to connect you with someone else, either one of you might want to share articles or resources that come up in the conversation, etc. It’s your responsibility to keep a record of these action items, so you can follow up on your promises and make it easy for the other person to remember theirs.
 
 Close the conversation by clarifying what’s next. Thank them for their time, summarize what you have learned, and go over any action items from the conversation. The goal is to make the other person feel useful and appreciated—after all, they’ve been generous with their time.
+
+**Asking for a referral**
+
+Getting a referral is an ideal outcome for a networking conversation. However, not every conversation will end in a referral. Sometimes, there will be no role available or the person might not be open to referring you for a variety of reasons. Make sure not to take this personally or push too hard. Their reasons may have nothing to do with you specifically. It’s important to respect their boundaries and comfort levels. It is also important to go into the conversation without the expectation of a referral. Focusing on learning about the role and getting advice from your new connection will take the pressure off you and them.
