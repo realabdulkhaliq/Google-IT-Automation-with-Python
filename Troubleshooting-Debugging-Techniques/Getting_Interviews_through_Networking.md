@@ -148,3 +148,5 @@ If, during the course of the conversation, you confirm that there is a role avai
 If your contact agrees to refer you, make sure you understand exactly what’s required from you. Depending on the company’s system, you might need to apply through a special referral link, have your contact submit your resume internally on your behalf, or apply online and then have your contact reach out to the relevant member of the hiring team.
 
 ### Step 5: Follow up
+
+Always send a thank-you email within a day or two to the person who has been generous enough to share their time and expertise with you. Go beyond the basic “thank you” and reinforce the connection you’ve made by:
