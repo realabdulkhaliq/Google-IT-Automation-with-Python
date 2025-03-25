@@ -154,3 +154,9 @@ Always send a thank-you email within a day or two to the person who has been gen
 Reiterating what you have learned
 
 Following up on your action items from the conversation. Include any materials you had promised to share and list out what else you are going to do based on the conversation (make sure to follow up on those as well when the time comes!)
+
+Gently reminding then about any action items the other person had volunteered for
+
+Offering to repay the favor by sharing any information that might be valuable to the person, or offering to connect them with people in your network
+
+Sample thank-you note:
