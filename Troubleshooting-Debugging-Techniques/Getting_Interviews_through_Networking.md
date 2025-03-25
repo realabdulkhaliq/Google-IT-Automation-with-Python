@@ -160,3 +160,7 @@ Gently reminding then about any action items the other person had volunteered fo
 Offering to repay the favor by sharing any information that might be valuable to the person, or offering to connect them with people in your network
 
 Sample thank-you note:
+
+Hi <name>,
+
+It was great to catch up with you today and hear about the incredible work you are doing at <company>, and I was excited to learn about our shared interest in <x>. Here is a link to the article I had mentioned on <topic> that I thought you might enjoy.
