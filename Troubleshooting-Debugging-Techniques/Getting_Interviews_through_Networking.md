@@ -178,3 +178,7 @@ Share updates on your job search. Follow up on any advice from the conversation 
 Send interesting information as it comes up. If you come across an article or information that reminds you of the person, it is a great reason to send them a quick note.
 
 Engage on LinkedIn. If your new connection is active on LinkedIn, commenting on their posts and updates is a great way to continue the conversation.
+
+Add them to your celebrations calendar. Add them to your holiday mailing list. In addition, if any important dates, such as a birthday, come up in the conversation, make sure to mark your calendar and send your congratulations.
+
+Do be mindful about your rate and volume of outreach, as you don't want to overdo it. Make sure to establish a pace that feels right for the relationship.
