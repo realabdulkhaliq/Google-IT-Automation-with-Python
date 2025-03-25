@@ -170,3 +170,7 @@ Thanks again for sharing about the <role> opening with me and sharing my resume 
 Again, it was great to speak with you. Thank you for your time and willingness to share your experience with me! Please let me know if I can ever be of any help. I have a pretty extensive network in <industry> and would be happy to introduce you to any of my connections.
 
 Some conversations naturally lead to ongoing relationships where people find a lot in common and naturally stay in touch, while others don’t create enough rapport to solidify the connection. Even if your conversation falls into the second category, as long as you feel that you’d like to keep this person in your active network, there are actions you can take to develop the connection over time. The key to developing your new connection is finding natural touchpoints moving forward.
+
+For example:
+
+Share updates on your job search. Follow up on any advice from the conversation once you have a chance to act on it. Your connection will appreciate that you valued their guidance and will be glad to know if it helped. Also, remember to update and thank them once your job search is complete.
