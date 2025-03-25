@@ -150,3 +150,7 @@ If your contact agrees to refer you, make sure you understand exactly what’s r
 ### Step 5: Follow up
 
 Always send a thank-you email within a day or two to the person who has been generous enough to share their time and expertise with you. Go beyond the basic “thank you” and reinforce the connection you’ve made by:
+
+Reiterating what you have learned
+
+Following up on your action items from the conversation. Include any materials you had promised to share and list out what else you are going to do based on the conversation (make sure to follow up on those as well when the time comes!)
