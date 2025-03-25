@@ -164,3 +164,5 @@ Sample thank-you note:
 Hi <name>,
 
 It was great to catch up with you today and hear about the incredible work you are doing at <company>, and I was excited to learn about our shared interest in <x>. Here is a link to the article I had mentioned on <topic> that I thought you might enjoy.
+
+Thanks again for sharing about the <role> opening with me and sharing my resume with the hiring manager! My resume is attached. Please let me know if you have any questions or need anything else from me.
