@@ -174,3 +174,7 @@ Some conversations naturally lead to ongoing relationships where people find a l
 For example:
 
 Share updates on your job search. Follow up on any advice from the conversation once you have a chance to act on it. Your connection will appreciate that you valued their guidance and will be glad to know if it helped. Also, remember to update and thank them once your job search is complete.
+
+Send interesting information as it comes up. If you come across an article or information that reminds you of the person, it is a great reason to send them a quick note.
+
+Engage on LinkedIn. If your new connection is active on LinkedIn, commenting on their posts and updates is a great way to continue the conversation.
