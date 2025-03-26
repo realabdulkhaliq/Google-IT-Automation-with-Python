@@ -151,7 +151,7 @@ If your contact agrees to refer you, make sure you understand exactly what’s r
 
 Always send a thank-you email within a day or two to the person who has been generous enough to share their time and expertise with you. Go beyond the basic “thank you” and reinforce the connection you’ve made by:
 
-Reiterating what you have learned
+#### Reiterating what you have learned
 
 Following up on your action items from the conversation. Include any materials you had promised to share and list out what else you are going to do based on the conversation (make sure to follow up on those as well when the time comes!)
 
@@ -182,3 +182,5 @@ Engage on LinkedIn. If your new connection is active on LinkedIn, commenting on 
 Add them to your celebrations calendar. Add them to your holiday mailing list. In addition, if any important dates, such as a birthday, come up in the conversation, make sure to mark your calendar and send your congratulations.
 
 Do be mindful about your rate and volume of outreach, as you don't want to overdo it. Make sure to establish a pace that feels right for the relationship.
+
+#### Continue Growing Your Network
