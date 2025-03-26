@@ -184,3 +184,5 @@ Add them to your celebrations calendar. Add them to your holiday mailing list. I
 Do be mindful about your rate and volume of outreach, as you don't want to overdo it. Make sure to establish a pace that feels right for the relationship.
 
 #### Continue Growing Your Network
+
+You now know how to find, reach out to, and develop relationships with people who can help your job search through insider information. Not every conversation you have will result in an immediate job lead, but many will. Networking is the most reliable way to get interviews, and it’s available to everyone with a LinkedIn account, effective strategies and some grit.
