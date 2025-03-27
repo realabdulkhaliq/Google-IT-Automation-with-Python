@@ -190,3 +190,5 @@ You now know how to find, reach out to, and develop relationships with people wh
 Don’t be discouraged if you don’t feel great about your first few conversations, or if they don’t result in referrals. It is normal to feel uneasy about speaking with strangers, particularly at first. It’s a skill you need to practice. Each conversation you have with an industry professional is a win. You are building one of your most valuable professional assets—your network—one person at a time!
 
 ## The Interview Process
+
+When you are contacted by a recruiter who’s reaching out to schedule a job interview, you might feel a surge of excitement—along with some nerves. It’s normal to feel a bit apprehensive about the interview process. If you have a better idea of what to expect, however, it can help you feel more confident and prepared. This reading will help you understand how the interview process typically works in the field of IT Automation. Although the interview process can vary widely from one company to another, the process covered in this reading is fairly common in the industry.
