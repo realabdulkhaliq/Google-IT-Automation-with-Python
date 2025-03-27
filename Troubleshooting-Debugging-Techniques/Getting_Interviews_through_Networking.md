@@ -188,3 +188,5 @@ Do be mindful about your rate and volume of outreach, as you don't want to overd
 You now know how to find, reach out to, and develop relationships with people who can help your job search through insider information. Not every conversation you have will result in an immediate job lead, but many will. Networking is the most reliable way to get interviews, and it’s available to everyone with a LinkedIn account, effective strategies and some grit.
 
 Don’t be discouraged if you don’t feel great about your first few conversations, or if they don’t result in referrals. It is normal to feel uneasy about speaking with strangers, particularly at first. It’s a skill you need to practice. Each conversation you have with an industry professional is a win. You are building one of your most valuable professional assets—your network—one person at a time!
+
+## The Interview Process
