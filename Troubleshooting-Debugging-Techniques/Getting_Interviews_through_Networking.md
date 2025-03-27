@@ -192,3 +192,5 @@ Don’t be discouraged if you don’t feel great about your first few conversati
 ## The Interview Process
 
 When you are contacted by a recruiter who’s reaching out to schedule a job interview, you might feel a surge of excitement—along with some nerves. It’s normal to feel a bit apprehensive about the interview process. If you have a better idea of what to expect, however, it can help you feel more confident and prepared. This reading will help you understand how the interview process typically works in the field of IT Automation. Although the interview process can vary widely from one company to another, the process covered in this reading is fairly common in the industry.
+
+**Getting contacted by a recruiter**
