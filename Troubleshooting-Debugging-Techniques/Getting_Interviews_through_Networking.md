@@ -202,3 +202,7 @@ After you apply for jobs, you may receive a call, email, or message from a recru
 In most cases, the first step in the interview process is a preliminary interview—sometimes called a screening. This usually involves a conversation with a recruiter over the phone, in person, or on a video call.
 
 The preliminary interview is typically shorter than a regular interview and might only last 20 or 30 minutes. The recruiter will share information about the company and the job opening. Then they’ll ask you questions to help them get to know you better and understand your experience and skills. The recruiter will also hold time for you to ask questions about the job. It’s a good idea to have questions prepared beforehand since asking questions helps demonstrate your interest in the position. You might also think of more questions to ask during the interview.
+
+At the end of the preliminary interview, the recruiter will thank you for your time and usually let you know the next steps. If they don’t mention the next steps, feel free to ask. You can also take this opportunity to thank the recruiter for meeting with you and express your interest in the position.
+
+After the interview, send a thank-you note to the recruiter within 24 hours. Email is often the best way to do this. Express your gratitude for their time and briefly restate why you would be a good fit for the position.
