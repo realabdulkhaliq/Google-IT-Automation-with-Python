@@ -196,3 +196,5 @@ When you are contacted by a recruiter who’s reaching out to schedule a job int
 **Getting contacted by a recruiter**
 
 After you apply for jobs, you may receive a call, email, or message from a recruiter expressing interest in your application and asking to schedule a call or meeting. It’s a good idea to reply to this message as soon as possible—preferably within 24 hours—to show that you are responsive and interested in the position.
+
+### Preliminary interview
