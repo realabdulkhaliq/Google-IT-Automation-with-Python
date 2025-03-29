@@ -208,3 +208,5 @@ At the end of the preliminary interview, the recruiter will thank you for your t
 After the interview, send a thank-you note to the recruiter within 24 hours. Email is often the best way to do this. Express your gratitude for their time and briefly restate why you would be a good fit for the position.
 
 ### Additional interviews
+
+Once you’ve passed the preliminary interview stage, you may be invited for another interview. This interview is typically with the hiring manager, the employee in charge of deciding who will be hired. You may also meet with other individuals on the team, or other managers within the department, in a group interview.
