@@ -216,3 +216,7 @@ This interview is often longer than the preliminary interview. It could be in pe
 The interview usually opens with introductions and a brief description of the company and job position. Then, the interviewer will ask you questions about your background, skills, experience, and how you work. Next, you’ll have an opportunity to ask questions about the company, the role, and job expectations.
 
 Finally, you’ll hear about next steps and thank everyone for their time as the interview comes to an end.
+
+There may be multiple rounds of interviews, depending on how the company’s interview process works. These additional interviews could be longer, include future teammates or other employees at the company, and feature questions that take more time and thought to answer.
+
+As with the preliminary interview, send a thank you note to the people you interviewed with after each round of interviews. Your thank you note can also be an opportunity to follow up on anything discussed in the interview, such as highlighting a project you worked on, or anything you wish you’d said during the interview but didn’t think of until later.
