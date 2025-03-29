@@ -210,3 +210,5 @@ After the interview, send a thank-you note to the recruiter within 24 hours. Ema
 ### Additional interviews
 
 Once you’ve passed the preliminary interview stage, you may be invited for another interview. This interview is typically with the hiring manager, the employee in charge of deciding who will be hired. You may also meet with other individuals on the team, or other managers within the department, in a group interview.
+
+This interview is often longer than the preliminary interview. It could be in person, over the phone, or on a video call.
