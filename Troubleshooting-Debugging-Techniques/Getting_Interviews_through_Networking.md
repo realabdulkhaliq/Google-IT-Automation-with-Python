@@ -220,3 +220,7 @@ Finally, you’ll hear about next steps and thank everyone for their time as the
 There may be multiple rounds of interviews, depending on how the company’s interview process works. These additional interviews could be longer, include future teammates or other employees at the company, and feature questions that take more time and thought to answer.
 
 As with the preliminary interview, send a thank you note to the people you interviewed with after each round of interviews. Your thank you note can also be an opportunity to follow up on anything discussed in the interview, such as highlighting a project you worked on, or anything you wish you’d said during the interview but didn’t think of until later.
+
+### Final offer
+
+Now comes the exciting part: receiving a job offer from one or more of the companies you interviewed with. The company may reach out to you by phone or email. After the company extends their initial offer, you can negotiate salary or benefits. When the company provides their final offer, you’ll need to decide whether or not to accept it. Feel free to ask for a day or two to make your decision, but let the company know as soon as you’ve decided.
