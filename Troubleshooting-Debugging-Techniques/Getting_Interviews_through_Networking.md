@@ -224,3 +224,7 @@ As with the preliminary interview, send a thank you note to the people you inter
 ### Final offer
 
 Now comes the exciting part: receiving a job offer from one or more of the companies you interviewed with. The company may reach out to you by phone or email. After the company extends their initial offer, you can negotiate salary or benefits. When the company provides their final offer, you’ll need to decide whether or not to accept it. Feel free to ask for a day or two to make your decision, but let the company know as soon as you’ve decided.
+
+### Building perseverance
+
+If the company lets you know that you didn’t get the job, take a moment to process the emotions you might feel. If you’d like, you can let the company know that you appreciate the opportunity to have interviewed and that you’d be interested in any future roles that might be a good fit. You can also ask for feedback on what you could do better next time. Although you might not receive a reply, it demonstrates that you are eager to learn and grow.
