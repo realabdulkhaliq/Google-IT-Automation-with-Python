@@ -249,4 +249,9 @@ Similar to the question about culture, this question provides the positive quali
 
 Is there any training for the role and how is the training delivered?
 
-If you’re interested in receiving training for a role, consider asking this question. Additionally, you may want to ask how the training will be delivered, such as digitally, in-person, shadowing a current employee, or another method. Shadowing is when you closely observe another employee perform the role.
+If you’re interested in receiving training for a role, consider asking this question. Additionally, you may want to ask how the training will be delivered, such as digitally, in-person, shadowing a current employee, or another method. Shadowing is when you closely observe another employee perform
+the role.
+
+Do you have any questions or hesitations about my qualifications or experience?
+
+If you ask this question at the end of an interview, it gives you a chance to address any concerns the interviewer may have about your work background. Sometimes the interviewer is interested in a particular experience that you may in fact have, but didn't include on your resume. This is the perfect question to address that discrepancy.
