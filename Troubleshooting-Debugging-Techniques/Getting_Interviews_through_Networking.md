@@ -230,3 +230,7 @@ Now comes the exciting part: receiving a job offer from one or more of the compa
 If the company lets you know that you didn’t get the job, take a moment to process the emotions you might feel. If you’d like, you can let the company know that you appreciate the opportunity to have interviewed and that you’d be interested in any future roles that might be a good fit. You can also ask for feedback on what you could do better next time. Although you might not receive a reply, it demonstrates that you are eager to learn and grow.
 
 ## Example questions to ask your interviewer
+
+How do you evaluate success in this role?
+
+This question helps you better understand what skills or qualities make someone successful in the role. If the interviewer mentions skills or qualities you have, you can then discuss how you applied them in your previous experience.
