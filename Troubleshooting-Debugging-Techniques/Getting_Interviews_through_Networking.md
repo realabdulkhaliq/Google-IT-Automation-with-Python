@@ -234,3 +234,7 @@ If the company lets you know that you didn’t get the job, take a moment to pro
 How do you evaluate success in this role?
 
 This question helps you better understand what skills or qualities make someone successful in the role. If the interviewer mentions skills or qualities you have, you can then discuss how you applied them in your previous experience.
+
+Can you describe the typical day of someone in this role?
+
+It’s important to know the day-to-day activities of the position. Does this match with the type of role you’re interested in? If it doesn’t, the role may not be a fit for you. This question also confirms that the tasks for the role match the job description.
