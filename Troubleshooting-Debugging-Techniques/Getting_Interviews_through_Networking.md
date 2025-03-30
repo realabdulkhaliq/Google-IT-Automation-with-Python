@@ -246,3 +246,7 @@ A company culture is the attitudes and behaviors of the company and its employee
 What do you like about working here?
 
 Similar to the question about culture, this question provides the positive qualities of a workplace. Ensure these qualities match with what you’re interested in for a work environment.
+
+Is there any training for the role and how is the training delivered?
+
+If you’re interested in receiving training for a role, consider asking this question. Additionally, you may want to ask how the training will be delivered, such as digitally, in-person, shadowing a current employee, or another method. Shadowing is when you closely observe another employee perform the role.
