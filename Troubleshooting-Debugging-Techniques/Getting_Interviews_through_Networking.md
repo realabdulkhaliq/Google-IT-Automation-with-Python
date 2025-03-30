@@ -238,3 +238,7 @@ This question helps you better understand what skills or qualities make someone 
 Can you describe the typical day of someone in this role?
 
 It’s important to know the day-to-day activities of the position. Does this match with the type of role you’re interested in? If it doesn’t, the role may not be a fit for you. This question also confirms that the tasks for the role match the job description.
+
+How would you describe the company’s culture?
+
+A company culture is the attitudes and behaviors of the company and its employees. Asking this question helps you better understand if the company’s culture is a fit for you. For example, if you’d like to work for a company that supports creativity and encourages new ideas, look for that type of information when someone describes the culture.
