@@ -242,3 +242,7 @@ It’s important to know the day-to-day activities of the position. Does this ma
 How would you describe the company’s culture?
 
 A company culture is the attitudes and behaviors of the company and its employees. Asking this question helps you better understand if the company’s culture is a fit for you. For example, if you’d like to work for a company that supports creativity and encourages new ideas, look for that type of information when someone describes the culture.
+
+What do you like about working here?
+
+Similar to the question about culture, this question provides the positive qualities of a workplace. Ensure these qualities match with what you’re interested in for a work environment.
