@@ -10,3 +10,5 @@ Dan
 Software Developer
 
 I'm Dan, a software developer with 8 years experience developing solutions for logistics. The most recent solution I developed is a database system that prevents large product shipments from being misdirected to the wrong destinations. Outside of my work with logistics, I develop AI software for websites and create websites for clients using that technology. My passion for software development and problem solving is what led me to some of the top logistics organizations. I love solving problems and helping my clients save time and money.
+
+Google is always innovating, which means when you work in this field you never stop learning. My first company actually ran a blog all about the latest changes to Google Ads (then called AdWords), and because of my English degree, I took a keen interest in the blog. In a few months, I was managing the blog, and it was through my posts on that site that Google found me.
