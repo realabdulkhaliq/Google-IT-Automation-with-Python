@@ -19,3 +19,7 @@ Joi
 Associate Product Marketing Manager
 
 I’m Joi, an Associate Product Marketing Manager at Google with 10 years experience as a content creator for YouTube and organic social channels.
+
+Outside of work, I run my own beauty e-commerce business, an experience that has helped me develop a plethora of skills around digital marketing and paid advertising, project management and operations.
+
+My entrepreneurial mindset paired with my love for creativity is what led me to a company like Google. I thrive in ambiguity and love strategizing and solving problems from the ground up.
