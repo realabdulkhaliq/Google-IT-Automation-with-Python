@@ -14,3 +14,8 @@ I'm Dan, a software developer with 8 years experience developing solutions for l
 Google is always innovating, which means when you work in this field you never stop learning. My first company actually ran a blog all about the latest changes to Google Ads (then called AdWords), and because of my English degree, I took a keen interest in the blog. In a few months, I was managing the blog, and it was through my posts on that site that Google found me.
 
 It’s been wonderful to be on the team that announces the latest changes and updates to Google Ads. Because of my hands-on experience buying ads myself, I can immediately see how somebody’s workflow will change after an announcement. I love being able to tell Google’s story to our advertisers so that companies of all sizes can continue to find success and grow their businesses.
+
+Joi
+Associate Product Marketing Manager
+
+I’m Joi, an Associate Product Marketing Manager at Google with 10 years experience as a content creator for YouTube and organic social channels.
