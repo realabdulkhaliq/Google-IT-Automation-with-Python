@@ -17,3 +17,9 @@ Your STAR responses should focus on your involvement in the situation. Avoid des
 In this activity, you will answer two common behavioral interview questions using the STAR method.
 
 In an interview, you may be asked behavioral interview questions. These types of questions require you to share a time when you were faced with a particular situation or had to practice a certain skill. The STAR method is a helpful strategy for answering behavioral interview questions in a clear, organized, and engaging way. As you’ve learned, STAR stands for “situation,” “task,” “action,” and “result.”
+
+## Scenario
+
+Review the scenario below. Then complete the step-by-step instructions.
+
+Using the STAR method to answer behavioral interview questions gives interviewers a sense of who you are and why you’ve applied for the role. This method can make your responses easy to follow by providing a logical structure to each story you share. Preparing and practicing responses using the STAR method in advance can also help you feel more confident going into an interview.
