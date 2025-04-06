@@ -9,3 +9,5 @@ Task: Explain the goal of the situation.
 Action: Describe the specific action(s) you took in the situation.
 
 Result: Tell about the positive results of your actions.
+
+Your STAR responses should focus on your involvement in the situation. Avoid describing the actions and results achieved by someone else.
