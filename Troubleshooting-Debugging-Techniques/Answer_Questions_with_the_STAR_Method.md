@@ -23,3 +23,11 @@ In an interview, you may be asked behavioral interview questions. These types of
 Review the scenario below. Then complete the step-by-step instructions.
 
 Using the STAR method to answer behavioral interview questions gives interviewers a sense of who you are and why you’ve applied for the role. This method can make your responses easy to follow by providing a logical structure to each story you share. Preparing and practicing responses using the STAR method in advance can also help you feel more confident going into an interview.
+
+In this activity, you will prepare responses to two common behavioral interview questions:
+
+First, you will recall and record notes about experiences you’ve had in the past that demonstrate your key skills.
+
+Then, you will select two questions from a list of frequently-asked behavioral questions in IT support interviews. You will answer each of these questions using the STAR method.
+
+Optionally, you can practice answering these questions and others aloud in front of a mirror, friend, or family member.
