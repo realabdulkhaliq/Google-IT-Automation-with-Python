@@ -80,3 +80,8 @@ In the Results section, add 2–4 sentences discussing the outcome of the action
 #### Step 8: Answer the second question
 
 Repeat steps 4–7 to answer Question 2 using the STAR method.
+
+#### (Optional) Step 9: Practice your responses aloud
+
+To prepare yourself to answer these types of questions verbally, practice your answers out loud in front of a mirror or with a friend or family member. Try answering additional questions from the list of Common Behavioral Interview Questions for IT Professionals (on the second page of the
+STAR responses template) in the same manner.
