@@ -76,3 +76,7 @@ In the Action section, add 2–4 sentences describing the action or actions you 
 Finally, share the results that you achieved.
 
 In the Results section, add 2–4 sentences discussing the outcome of the actions you took and the impact you had. Where possible, use data—such as numbers and percentages—to reinforce your response. If you’re sharing an experience that came with challenges, you may also want to share the lessons you learned.
+
+#### Step 8: Answer the second question
+
+Repeat steps 4–7 to answer Question 2 using the STAR method.
