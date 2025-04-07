@@ -31,3 +31,5 @@ First, you will recall and record notes about experiences you’ve had in the pa
 Then, you will select two questions from a list of frequently-asked behavioral questions in IT support interviews. You will answer each of these questions using the STAR method.
 
 Optionally, you can practice answering these questions and others aloud in front of a mirror, friend, or family member.
+
+### Step-By-Step Instructions
