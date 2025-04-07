@@ -58,3 +58,9 @@ During a job interview, you may be asked behavioral interview questions. Your an
 Using the STAR method helps organize your responses following a story-like structure. To review, STAR stands for “situation,” “task,” “action,” and “result.”
 
 Begin by describing a particular situation, challenge, or event you experienced. First, review Question 1 and the experiences you added to the STAR responses template. Select an experience you had that relates to the question. Then, in the Situation section, add 2–3 sentences describing the situation. Be as specific as possible, providing enough detail to help the interviewer understand the context in which the situation took place.
+
+#### Step 5: Describe your task
+
+Next, relate that situation to a task that you were required to complete.
+
+In the Task section, add 1–2 sentences describing what you were asked to do, how you were involved, or what you were responsible for in the situation. Explain exactly how you fit into the story you’re telling.
