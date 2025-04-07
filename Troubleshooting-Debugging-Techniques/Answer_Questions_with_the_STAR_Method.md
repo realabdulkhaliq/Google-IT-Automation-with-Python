@@ -64,3 +64,9 @@ Begin by describing a particular situation, challenge, or event you experienced.
 Next, relate that situation to a task that you were required to complete.
 
 In the Task section, add 1–2 sentences describing what you were asked to do, how you were involved, or what you were responsible for in the situation. Explain exactly how you fit into the story you’re telling.
+
+#### Step 6: Explain the actions you took
+
+Now that you’ve given the interviewer a sense of what your role was, explain the action you took to meet the challenge or solve the problem.
+
+In the Action section, add 2–4 sentences describing the action or actions you took to accomplish the task. Give specific details that demonstrate your abilities and skills. This part of your response may take the most time to cover, as you can highlight multiple skills here.
