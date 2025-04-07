@@ -37,3 +37,8 @@ Optionally, you can practice answering these questions and others aloud in front
 #### Step 1: Access the template
 
 To use the template for this course item, click the link below and select “Use Template.”
+
+Link to template:
+
+STAR responses
+Troubleshooting-Debugging-Techniques/Template\_ STAR responses.docx
