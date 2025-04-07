@@ -33,3 +33,7 @@ Then, you will select two questions from a list of frequently-asked behavioral q
 Optionally, you can practice answering these questions and others aloud in front of a mirror, friend, or family member.
 
 ### Step-By-Step Instructions
+
+#### Step 1: Access the template
+
+To use the template for this course item, click the link below and select “Use Template.”
