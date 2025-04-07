@@ -42,3 +42,9 @@ Link to template:
 
 STAR responses
 Troubleshooting-Debugging-Techniques/Template\_ STAR responses.docx
+
+#### Step 2: Identify experiences that demonstrate your skills
+
+Research the most common Python automation related skills that companies are looking for by reviewing job descriptions on platforms like Indeed, LinkedIn Job Search, or CareerBuilder. Then, consider the experiences you’ve had that demonstrate those types of skills. These may be past work experiences, school projects, volunteer positions, or any other relevant activities you’ve done—even the completion of this program.
+
+Add notes on at least three of those experiences to the Experiences that demonstrate my skills section of the STAR responses template.
