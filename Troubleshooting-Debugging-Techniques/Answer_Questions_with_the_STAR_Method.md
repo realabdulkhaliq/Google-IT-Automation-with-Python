@@ -85,3 +85,5 @@ Repeat steps 4–7 to answer Question 2 using the STAR method.
 
 To prepare yourself to answer these types of questions verbally, practice your answers out loud in front of a mirror or with a friend or family member. Try answering additional questions from the list of Common Behavioral Interview Questions for IT Professionals (on the second page of the
 STAR responses template) in the same manner.
+
+Finally, be sure to save a blank copy of the STAR responses template you used to complete this activity. You can use it for further practice or in your professional projects. This template will help you work through your thought processes and demonstrate your experience to potential employers.
