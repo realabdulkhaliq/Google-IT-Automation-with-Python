@@ -70,3 +70,9 @@ In the Task section, add 1–2 sentences describing what you were asked to do, h
 Now that you’ve given the interviewer a sense of what your role was, explain the action you took to meet the challenge or solve the problem.
 
 In the Action section, add 2–4 sentences describing the action or actions you took to accomplish the task. Give specific details that demonstrate your abilities and skills. This part of your response may take the most time to cover, as you can highlight multiple skills here.
+
+#### Step 7: Share your results
+
+Finally, share the results that you achieved.
+
+In the Results section, add 2–4 sentences discussing the outcome of the actions you took and the impact you had. Where possible, use data—such as numbers and percentages—to reinforce your response. If you’re sharing an experience that came with challenges, you may also want to share the lessons you learned.
