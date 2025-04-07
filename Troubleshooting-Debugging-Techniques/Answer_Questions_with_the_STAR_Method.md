@@ -48,3 +48,7 @@ Troubleshooting-Debugging-Techniques/Template\_ STAR responses.docx
 Research the most common Python automation related skills that companies are looking for by reviewing job descriptions on platforms like Indeed, LinkedIn Job Search, or CareerBuilder. Then, consider the experiences you’ve had that demonstrate those types of skills. These may be past work experiences, school projects, volunteer positions, or any other relevant activities you’ve done—even the completion of this program.
 
 Add notes on at least three of those experiences to the Experiences that demonstrate my skills section of the STAR responses template.
+
+#### Step 3: Select interview questions
+
+During a job interview, you may be asked behavioral interview questions. Your answers to these questions should demonstrate how you handled a specific situation in the past and indicate how you might handle a similar situation in the future.
