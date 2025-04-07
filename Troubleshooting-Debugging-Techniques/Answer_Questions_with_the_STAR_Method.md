@@ -52,3 +52,9 @@ Add notes on at least three of those experiences to the Experiences that demonst
 #### Step 3: Select interview questions
 
 During a job interview, you may be asked behavioral interview questions. Your answers to these questions should demonstrate how you handled a specific situation in the past and indicate how you might handle a similar situation in the future.
+
+#### Step 4: Describe the situation
+
+Using the STAR method helps organize your responses following a story-like structure. To review, STAR stands for “situation,” “task,” “action,” and “result.”
+
+Begin by describing a particular situation, challenge, or event you experienced. First, review Question 1 and the experiences you added to the STAR responses template. Select an experience you had that relates to the question. Then, in the Situation section, add 2–3 sentences describing the situation. Be as specific as possible, providing enough detail to help the interviewer understand the context in which the situation took place.
