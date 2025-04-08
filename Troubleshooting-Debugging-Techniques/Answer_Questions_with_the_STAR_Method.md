@@ -87,3 +87,5 @@ To prepare yourself to answer these types of questions verbally, practice your a
 STAR responses template) in the same manner.
 
 Finally, be sure to save a blank copy of the STAR responses template you used to complete this activity. You can use it for further practice or in your professional projects. This template will help you work through your thought processes and demonstrate your experience to potential employers.
+
+## What to Include in Your Response
