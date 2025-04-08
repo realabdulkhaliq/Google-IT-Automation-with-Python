@@ -91,3 +91,17 @@ Finally, be sure to save a blank copy of the STAR responses template you used to
 ## What to Include in Your Response
 
 Be sure to address the following criteria in your completed STAR responses:
+
+- A description of three experiences that showcase your skills
+
+- A selection of two interview questions to answer
+
+- A description of the following as it relates to each question:
+
+- A situation you experienced (2–3 sentences)
+
+- The task you were asked to complete or your responsibility in the situation (1–2 sentences)
+
+- The actions you took to meet the challenge or solve the problem (2–4 sentences)
+
+- The result of your actions (2–4 sentences)
