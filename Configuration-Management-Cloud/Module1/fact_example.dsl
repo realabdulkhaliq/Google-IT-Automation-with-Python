@@ -23,3 +23,6 @@ virtual machine is typically done to improve performance.
 If the is_virtual fact is set to false, then the code in the else statement 
 block will be executed. This code will install the smartmontools package.
 
+In this code block, the value of the is_virtual fact is true, 
+so the code in the if statement block will be executed. 
+This means that the smartmontools package will be purged.
