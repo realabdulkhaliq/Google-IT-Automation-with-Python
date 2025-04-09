@@ -20,3 +20,6 @@ The smartmontools package is a software package that provides tools for
 monitoring and managing hard drives. Purging the smartmontools package on a 
 virtual machine is typically done to improve performance.
 
+If the is_virtual fact is set to false, then the code in the else statement 
+block will be executed. This code will install the smartmontools package.
+
