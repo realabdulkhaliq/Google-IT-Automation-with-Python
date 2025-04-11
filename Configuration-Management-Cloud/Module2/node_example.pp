@@ -15,3 +15,10 @@ node webserver.example.com {
   }
   class { 'apache': }
 }
+
+The command node webserver.example.com installs the sudo, ntp, 
+and apache classes on nodes with the fully-qualified domain name 
+(FQDN) webserver.example.com.
+Note: Because nodes with this FQDN have a specific set of classes 
+that apply to them, the node default command will not apply any 
+classes to them. 
