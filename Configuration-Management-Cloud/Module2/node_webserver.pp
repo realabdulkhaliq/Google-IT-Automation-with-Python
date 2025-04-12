@@ -16,3 +16,7 @@ node webserver {
 
 node default {}
 
+
+sudo systemctl enable puppet
+sudo systemctl start puppet
+sudo systemctl status puppet
