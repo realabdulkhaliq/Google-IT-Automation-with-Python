@@ -15,3 +15,10 @@ https://puppet.com/docs/puppetserver/latest/install_from_packages.html
 http://www.masterzen.fr/2010/11/14/puppet-ssl-explained/
 
 [Modifying and testing manifests](https://www.coursera.org/learn/configuration-management-cloud/lecture/KZPEP/modifying-and-testing-manifests)
+
+```
+describe 'gksu', :type => :class do
+  let (:facts) { { 'is_virtual' => 'false' } }
+  it { should contain_package('gksu').with_ensure('latest') }
+end
+```
