@@ -19,3 +19,9 @@ Official documentation is here:
 https://cloud.google.com/load-balancing/docs/https/
 
 https://geekflare.com/gcp-load-balancer/
+
+Interesting articles about hybrid setups:
+
+https://www.terraform.io/docs/enterprise/before-installing/reference-architecture/gcp.html
+
+https://www.hashicorp.com/resources/terraform-on-premises-hybrid-cloud-wayfair
