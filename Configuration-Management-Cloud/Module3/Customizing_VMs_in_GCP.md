@@ -11,3 +11,5 @@ The first line of this code uses the git clone command to clone the github repos
 ```
 sudo ./hello_cloud.py 80
 ```
+
+The sudo command allows us to pass a different port, port 80, to the hello_cloud.py application so it listens on port 80 instead of on port 8000.
