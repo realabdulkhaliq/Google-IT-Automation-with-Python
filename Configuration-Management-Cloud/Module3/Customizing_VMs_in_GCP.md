@@ -53,3 +53,9 @@ ps ax | grep hello
 ```
 
 In this code, the ps ax command provides a list of the running processes. The grep command filters this list to match and keep any items that match the pattern hello.
+
+```
+sudo apt install puppet
+```
+
+This code installs Puppet on this machine so it’s ready to run Puppet in the future.
