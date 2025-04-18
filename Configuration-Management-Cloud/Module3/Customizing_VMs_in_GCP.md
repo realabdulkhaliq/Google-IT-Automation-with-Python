@@ -47,3 +47,9 @@ sudo reboot
 ```
 
 This code triggers a reboot of the system, which will restart the hello_cloud application.
+
+```
+ps ax | grep hello
+```
+
+In this code, the ps ax command provides a list of the running processes. The grep command filters this list to match and keep any items that match the pattern hello.
