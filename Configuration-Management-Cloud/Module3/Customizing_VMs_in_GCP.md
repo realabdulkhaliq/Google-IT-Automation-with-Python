@@ -19,3 +19,17 @@ cat hello_cloud.service
 ```
 
 This code opens the service definition file, also called a systemd file, for the hello_cloud.py application.
+
+```
+[Unit]
+
+After=network.target
+
+[Service]
+
+ExecStart=/usr/local/bin/hello_cloud.py 80
+
+[Install]
+
+WantedBy=default.target
+```
