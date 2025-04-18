@@ -33,3 +33,11 @@ ExecStart=/usr/local/bin/hello_cloud.py 80
 
 WantedBy=default.target
 ```
+
+```
+sudo cp hello_cloud.py /usr/local/bin/
+sudo cp hello_cloud.service /etc/systemd/system/
+sudo systemctl enable hello_cloud
+```
+
+The first line of code copies the hello_cloud.py file into the directory /usr/local/bin/ . The second line copies the service file, hello_cloud.service, into the directory /etc/systemd/system/. In the third line of code, the systectl command enables hello_cloud to run automatically.
