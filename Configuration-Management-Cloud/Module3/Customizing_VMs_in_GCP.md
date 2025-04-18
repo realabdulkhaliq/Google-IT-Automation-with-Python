@@ -13,3 +13,9 @@ sudo ./hello_cloud.py 80
 ```
 
 The sudo command allows us to pass a different port, port 80, to the hello_cloud.py application so it listens on port 80 instead of on port 8000.
+
+```
+cat hello_cloud.service
+```
+
+This code opens the service definition file, also called a systemd file, for the hello_cloud.py application.
