@@ -59,3 +59,9 @@ sudo apt install puppet
 ```
 
 This code installs Puppet on this machine so it’s ready to run Puppet in the future.
+
+```
+./hello/setup_puppet.sh
+```
+
+This code runs a script to do the initial configuration of the Puppet server and sets the Puppet process to run automatically on boot.
