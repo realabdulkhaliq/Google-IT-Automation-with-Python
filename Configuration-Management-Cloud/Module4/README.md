@@ -11,3 +11,5 @@ https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#service
 Check out the following links for more information:
 
 https://www.datadoghq.com/blog/monitoring-101-collecting-data/
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-metrics-monitoring-and-alerting
