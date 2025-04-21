@@ -17,3 +17,7 @@ https://www.digitalocean.com/community/tutorials/an-introduction-to-metrics-moni
 https://landing.google.com/sre/books/
 
 ## Debugging Problems on the Cloud
+
+Check out the following links for more information:
+
+https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-instances
